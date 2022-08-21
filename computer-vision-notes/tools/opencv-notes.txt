@@ -1,0 +1,23 @@
+======= OpenCv Notes =======
+
+
+# References
+
+opencv : 
+https://opencv.org/
+
+FreeCodeCamp : OpenCV Course - Full Tutorial with Python
+https://www.youtube.com/watch?v=oXlwWbU8l2o
+
+LEARN OPENCV C++ in 4 HOURS | Including 3x Projects | Computer Vision
+https://www.youtube.com/watch?v=2FYm3GOonhk
+
+FreeCodeCamp : OpenCV Python Course - Learn Computer Vision and AI
+https://www.youtube.com/watch?v=P4Z8_qe2Cu0
+
+Google : How Computer Vision Works
+https://www.youtube.com/watch?v=OcycT1Jwsns
+
+Crash Course - Computer Vision: Crash Course Computer Science #35
+https://www.youtube.com/watch?v=-4E2-0sxVUM
+
