@@ -14,9 +14,9 @@
 
 ## Intro
 - Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.
-=>src : wikipedia
 
 ## Applications 
+
 - Augmented reality (AR)
 - Autonomous vehicles
 - Content-based image retrieval
@@ -27,18 +27,18 @@
 ...
 
 ## Tools/frameworks
-List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai
-Tool #1: OpenCV
-Tool #2: Viso Suite
-Tool #3: TensorFlow
-Tool #4: CUDA
-Tool #5: MATLAB
-Tool #6: Keras
-Tool #7: SimpleCV
-Tool #8: BoofCV
-Tool #9: CAFFE
-Tool #10: OpenVINO
-Tool #11: DeepFace
+List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai : 
+1. OpenCV
+2. Viso Suite
+3. TensorFlow
+4. CUDA
+5. MATLAB
+6. Keras
+7. SimpleCV
+8. BoofCV
+9. CAFFE
+10. OpenVINO
+11. DeepFace
 ...
 
 ## Image processing notes
