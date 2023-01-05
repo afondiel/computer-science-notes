@@ -43,7 +43,7 @@ List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai :
 
 ## Image processing notes
 
-### useful concepts
+### Useful concepts
 
 - image : a 2D matrix (n x m , array of pixels) 
 - types of images : 
@@ -96,31 +96,31 @@ pixel representations
 
 
 ### Operations
-- Region of ​​interest(ROI): a portion of an image that you want to filter or perform some other operation on
-- Segmentation: operation which consists of extracting geometric primitives from an image.
+- **Region of ​​interest(ROI)**: a portion of an image that you want to filter or perform some other operation on
+- **Segmentation**: operation which consists of extracting geometric primitives from an image.
     - The most used primitives:
         - Segments (outlines)
         - Surfaces( regions)
         - classification or thresholding
-- Calibration: operation which consists in finding the relation between the coordinates in the image and the coordinates in the space of the scene.
-- Filter: takes an input image and produces a (cleaner) output image
-- LUT(Lool Up Table): conversion table that groups neighboring NG pixels into a single value.
+- **Calibration**: operation which consists in finding the relation between the coordinates in the image and the coordinates in the space of the scene.
+- **Filter**: takes an input image and produces a (cleaner) output image
+- **LUT(Lool Up Table)**: conversion table that groups neighboring NG pixels into a single value.
     - Matrix with different pixel values
     - By doing operations on the LUTs it allows to process the image
-- Recale: geometric transformation technique allowing to go from a source image to a target image (destination)
+- **Recale**: geometric transformation technique allowing to go from a source image to a target image (destination)
 
-- Morphological:
+- **Morphological**:
   - Skeleton
   - Erosion
   - Dilation
-- Frequency
+- **Frequency**
   - Frame
   - Equalize
   - Opening(object)
   - Closure(hole)
   - Filter(freq)
 
-- Operators:
+- **Operators**:
   - img(src) -> Img(destination)
   - img (src) -> information set
   - information set -> img(destination)
@@ -149,11 +149,19 @@ Detection process
 5. Optimization : 
 
 # References
-- books 
-  - [programmming computer vision by Jan Erik Solem](https://github.com/afondiel/research-notes/tree/master/books=)
-- Wiki - archives - courses - blog posts
-  - [Cv - wikipedia](https://en.wikipedia.org/wiki/Computer_vision)
-  - [Convolutional Neural Network(CNN) - wiki](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+- Wikipedia - Quick notes: 
+  - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
+  - [Human Visual System](https://en.wikipedia.org/wiki/Visual_system)
+  - [Optics](https://en.wikipedia.org/wiki/Optics)
+  - [Light](https://en.wikipedia.org/wiki/Light)
+  - [Electromagnetic Spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
+  - [Machine Perception](https://en.wikipedia.org/wiki/Machine_perception)
+  - [Convolutional Neural Network - CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
+- Books 
+  - [Computer Vision - resources](https://github.com/afondiel/cs-books/tree/main/computer-vision)
+- Courses - blog posts
+  - [CS131 Computer Vision: Foundations and Applications - Stanford](http://vision.stanford.edu/teaching/cs131_fall1718/)
   - [v7labs - 27+ Most Popular Computer Vision Applications and Use Cases in 2022](https://www.v7labs.com/blog/computer-vision-applications)
   - [viso.ai - The 12 Most Popular Computer Vision Tools in 2022](https://viso.ai/computer-vision/the-most-popular-computer-vision-tools/)
   - [Lines Detection with Hough Transform](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
