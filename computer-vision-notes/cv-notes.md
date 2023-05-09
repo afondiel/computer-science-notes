@@ -53,10 +53,10 @@ List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai :
 
 ### Useful concepts
 
-- image : a 2D matrix (n x m , array of pixels) 
-- types of images : 
-  - RGB(Red Green Blue - original colored image) : 3D (dim (W x H x L)  => 3 channels
-  - GrayScale (Gradient) : 2D (dim(W x H)) => 1 channel
+- image : a 2D matrix (m x n , array of pixels) 
+  - types of images : 
+    - RGB(Red Green Blue - original colored image) : 3D (dim (W x H x L)  => 3 channels
+    - GrayScale (Gradient) : 2D (dim(W x H)) => 1 channel
 - PIXEL (Picture ELement): it is the smallest element of a digital image (2D)
   - light intensity of some location in the img 
 - VIXEL (Volumic PIXEL): pixel of a 3D image
