@@ -135,8 +135,11 @@ pixel representations
     
 
 
-## Finding Lanes application
-Setup the environment : 
+## CV Algorithms & Applications
+
+**Finding Lanes application**
+
+- Setup the environment : 
 1. load image => OK 
     => pip install opencv-python
 
@@ -155,6 +158,18 @@ Detection process
     - Also the (new) pixel represents the line chosen by the system of votes (numbers of intersections ) of severals courves of the plan 
     - vote : number of intersection  
 5. Optimization : 
+
+**Structure from motion algorithms**
+- Can reconstruct a sparse 3D point model of a large complex scene from hundreds of partially overlapping photographs
+
+**Stereo matching algorithms**
+- Can build a detailed 3D model of a building façade from hundreds of differently exposed photographs taken from the Internet
+
+**Person tracking algorithms**
+- Can track a person walking in front of a cluttered background
+
+**Face detection algorithms**
+- Coupled with color-based clothing and hair detection algorithms, can locate and recognize the individuals in this image
 
 # References
 - Wikipedia - Quick notes: 
@@ -178,6 +193,7 @@ Detection process
   - [Lines Detection with Hough Transform](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
   - [OpenGL Course - Create 3D and 2D Graphics With C++](https://www.youtube.com/watch?v=45MIykWJ-C4)
   - [IBM - What is computer vision?](https://www.ibm.com/hk-en/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information.)
+  - [Computer Vision Algorithms and Applications by Richard Szeliski-2010](https://github.com/afondiel/cs-books/blob/main/computer-vision/Computer-Vision-Algorithms-and-Applications-Richard-Szeliski-2010.pdf)
 
 - notebooks
   - [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
