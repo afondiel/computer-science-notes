@@ -59,7 +59,7 @@ List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai :
     - GrayScale (Gradient) : 2D (dim(W x H)) => 1 channel
 - PIXEL (Picture ELement): it is the smallest element of a digital image (2D)
   - light intensity of some location in the img 
-- VIXEL (Volumic PIXEL): pixel of a 3D image
+- VOXEL (Volumic PIXEL): pixel of a 3D image
   
 GrayScale image (GS) : is one in which each pixel is a single sample representing only an amount of light. GS are composed exclusively of shades of gray, with the contrast ranging from black at the weakest intensity to white at the strongest
 .
