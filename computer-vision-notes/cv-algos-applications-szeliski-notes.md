@@ -10,7 +10,7 @@
 1.4 Sample syllabus 
 1.5 A note on notation
 1.6 Additional reading
-1. Image formation 
+2. Image formation 
 2.1 Geometric primitives and transformations
 2.1.1 Geometric primitives 
 2.1.2 2D transformations 
@@ -29,7 +29,7 @@
 xiv Computer Vision: Algorithms and Applications (September 3, 2010 draft)
 2.4 Additional reading
 2.5 Exercises  
-1. Image processing 
+3. Image processing 
 3.1 Point operators   
 3.1.1 Pixel transforms
 3.1.2 Color transforms  
@@ -67,7 +67,7 @@ xiv Computer Vision: Algorithms and Applications (September 3, 2010 draft)
 Contents
 3.8 Additional reading 192                                                      
 3.9 Exercises   194
-1. Feature detection and matching 205
+4. Feature detection and matching 205
 4.1 Points and patches 207
 4.1.1 Feature detectors  209
 4.1.2 Feature descriptors   222
@@ -85,7 +85,7 @@ Contents
 4.3.4 Application: Rectangle detection  257
 4.4 Additional reading 257
 4.5 Exercises   259
-1. Segmentation 267
+5. Segmentation 267
 5.1 Active contours   270
 5.1.1 Snakes   270
 5.1.2 Dynamic snakes and CONDENSATION  276
@@ -107,7 +107,7 @@ xvi Computer Vision: Algorithms and Applications (September 3, 2010 draft)
 5.5.1 Application: Medical image segmentation  304
 5.6 Additional reading 305
 5.7 Exercises   306
-1. Feature-based alignment 309
+6. Feature-based alignment 309
 6.1 2D and 3D feature-based alignment  311
 6.1.1 2D alignment using least squares  312
 6.1.2 Application: Panography 314
@@ -126,7 +126,7 @@ xvi Computer Vision: Algorithms and Applications (September 3, 2010 draft)
 6.3.5 Radial distortion  334
 6.4 Additional reading 335
 6.5 Exercises   336
-1. Structure from motion 343
+7. Structure from motion 343
 7.1 Triangulation   345
 7.2 Two-frame structure from motion 347
 7.2.1 Projective (uncalibrated) reconstruction  353
@@ -146,7 +146,7 @@ Contents xvii
 7.5.2 Plane-based techniques   376
 7.6 Additional reading 377
 7.7 Exercises 
-1. Dense motion estimation 381
+8. Dense motion estimation 381
 8.1 Translational alignment  384
 8.1.1 Hierarchical motion estimation  387
 8.1.2 Fourier-based alignment 388
@@ -165,7 +165,7 @@ Contents xvii
 8.5.2 Transparent layers and reflections  419
 8.6 Additional reading 421
 8.7 Exercises   422
-1. Image stitching 427
+9. Image stitching 427
 9.1 Motion models   430
 9.1.1 Planar perspective motion 431
 9.1.2 Application: Whiteboard and document scanning   432
@@ -186,7 +186,7 @@ xviii Computer Vision: Algorithms and Applications (September 3, 2010 draft)
 9.3.4 Blending 459
 9.4 Additional reading 462
 9.5 Exercises   463
-1.  Computational photography 467
+10.  Computational photography 467
 10.1 Photometric calibration  470
 10.1.1 Radiometric response function  470
 10.1.2 Noise level estimation   473
@@ -209,7 +209,7 @@ xviii Computer Vision: Algorithms and Applications (September 3, 2010 draft)
 10.5.2 Application: Non-photorealistic rendering  522
 10.6 Additional reading 524
 10.7 Exercises   526
-1.   correspondence 533
+11.   correspondence 533
 11.1 Epipolar geometry 537
 11.1.1 Rectification  538
 Contents xix
@@ -230,7 +230,7 @@ Contents xix
 11.6.2 Shape from silhouettes   567
 11.7 Additional reading 570
 11.8 Exercises   571
-1.  3D reconstruction 577
+12.  3D reconstruction 577
 12.1 Shape from X   580
 12.1.1 Shape from shading and photometric stereo  580
 12.1.2 Shape from texture   583
@@ -256,7 +256,7 @@ xx Computer Vision: Algorithms and Applications (September 3, 2010 draft)
 12.7.2 Application: 3D photography  613
 12.8 Additional reading 614
 12.9 Exercises   616
-1.  Image-based rendering 619
+13.  Image-based rendering 619
 13.1 View interpolation 621
 13.1.1 View-dependent texture maps  623
 13.1.2 Application: Photo Tourism  624
@@ -277,7 +277,7 @@ xx Computer Vision: Algorithms and Applications (September 3, 2010 draft)
 13.5.5 Application: Video-based walkthroughs  645
 13.6 Additional reading 648
 13.7 Exercises   650
-1.  Recognition 655
+14.  Recognition 655
 14.1 Object detection   658
 14.1.1 Face detection  658
 14.1.2 Pedestrian detection   666
@@ -301,7 +301,7 @@ Contents xxi
 14.6 Recognition databases and test sets 718
 14.7 Additional reading 722
 14.8 Exercises   725
-15 Conclusion 731
+15. Conclusion 731
 A Linear algebra and numerical techniques 735
 A.1 Matrix decompositions  736
 A.1.1 Singular value decomposition  736
@@ -335,4 +335,5 @@ C Supplementary material
 C.1 Data sets 
 C.2 Software 
 C.3 Slides and lectures
-C.4 Bibliography                                                            
+C.4 Bibliography                                                      
+References
