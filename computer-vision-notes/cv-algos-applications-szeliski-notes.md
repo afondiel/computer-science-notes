@@ -2,7 +2,7 @@
 
 
 0. Table Of Contents
-
+```
 1. Introduction
 1.1 What is computer vision?    
 1.2 A brief history
@@ -337,3 +337,4 @@ C.2 Software
 C.3 Slides and lectures
 C.4 Bibliography                                                      
 References
+```
