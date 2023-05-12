@@ -55,7 +55,7 @@ List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai :
 
 - image : a 2D matrix (m x n , array of pixels) 
   - types of images : 
-    - RGB(Red Green Blue - original colored image) : 3D (dim (W x H x L)  => 3 channels
+    - RGB(Red Green Blue - original colored image) : 3D (dim (W x H x L))  => 3 channels
     - GrayScale (Gradient) : 2D (dim(W x H)) => 1 channel
 - PIXEL (Picture ELement): it is the smallest element of a digital image (2D)
   - light intensity of some location in the img 
@@ -172,6 +172,7 @@ Detection process
 - Coupled with color-based clothing and hair detection algorithms, can locate and recognize the individuals in this image
 
 # References
+
 - Wikipedia - Quick notes: 
   - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
   - [Human Visual System](https://en.wikipedia.org/wiki/Visual_system)
@@ -186,8 +187,9 @@ Detection process
 
 - Books 
   - [Computer Vision - resources](https://github.com/afondiel/cs-books/tree/main/computer-vision)
-- Courses - blog posts
+- Courses - Blog posts
   - [CS131 Computer Vision: Foundations and Applications - Stanford](http://vision.stanford.edu/teaching/cs131_fall1718/)
+  - [Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)](https://www.youtube.com/watch?v=u6aEYuemt0M)
   - [v7labs - 27+ Most Popular Computer Vision Applications and Use Cases in 2022](https://www.v7labs.com/blog/computer-vision-applications)
   - [viso.ai - The 12 Most Popular Computer Vision Tools in 2022](https://viso.ai/computer-vision/the-most-popular-computer-vision-tools/)
   - [Lines Detection with Hough Transform](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
@@ -205,3 +207,4 @@ Detection process
    
 
 > ## "Vision is a picture of the future that produces passion" ~ Bill Hybels
+
