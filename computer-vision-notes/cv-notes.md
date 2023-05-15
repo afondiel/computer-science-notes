@@ -91,15 +91,15 @@ pixel representations
 - Hystogram: it is the distribution (frequency) of grayscale (GS) of an image
 
         255
-        ^(Pixels)
+        ^(Pixels count/frequency)
         |                   +
         |                 + || +
         |     +          +  ||  +
-        |   + || +      +   ||   + (density/frequency?)
+        |   + || +      +   ||   +
         |  +  ||   + +      ||
         |     ||     ||     ||
         |     ||     ||     ||           
-        +-----+------+-------+---------> (GS : samples)
+        +-----+------+-------+---------> (Gray Levels/intensity)
         0                              255
 
 
