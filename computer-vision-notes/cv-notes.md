@@ -1,6 +1,6 @@
 # Computer vision (CV) - Notes
 
-## Agenda
+## Table of Contents
 
 - [What is computer vision?](#what-is-computer-vision)
 - [Applications](#applications)
@@ -11,12 +11,14 @@
 - [Finding Lanes application](#finding-lanes-application)
 - [References :](#references-)
 
+## Overview
 
+This is a Computer Vision "Hello World" resources.
 ## What is computer vision?
 
-Computer vision (CV) uses artificial intelligence (AI) to interpret digital images and videos to take actions and make recommendations.
+CV uses artificial intelligence (AI) to interpret digital images and videos to take actions and make recommendations.
 
-- If AI enables computers to think, `computer vision enables them to see, observe and understand.`
+If AI enables computers to think, computer vision **enables them to see, observe and understand.**
 
 ## Applications 
 
@@ -171,7 +173,16 @@ Detection process
 **Face detection algorithms**
 - Coupled with color-based clothing and hair detection algorithms, can locate and recognize the individuals in this image
 
-# References
+## Computer Vision and Deep Learning
+
+- [Deep Learning NN](..\ai\ml-notes\deep-learning-notes\neural-nets)
+- [Deep Learning NN Architectures](..\ai\ml-notes\deep-learning-notes\neural-nets-architecture-notes.md)
+
+
+ - [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
+
+
+## References
 
 - Wikipedia - Quick notes: 
   - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
@@ -188,6 +199,9 @@ Detection process
 - Books 
   - [Computer Vision - resources](https://github.com/afondiel/cs-books/tree/main/computer-vision)
 - Courses - Blog posts
+  - Computer Vision roadmap :
+    - https://www.youtube.com/watch?v=jLcuVu5xdDo 
+    - https://www.youtube.com/watch?v=DfPAvepK5Ws
   - [CS131 Computer Vision: Foundations and Applications - Stanford](http://vision.stanford.edu/teaching/cs131_fall1718/)
   - [Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)](https://www.youtube.com/watch?v=u6aEYuemt0M)
   - [v7labs - 27+ Most Popular Computer Vision Applications and Use Cases in 2022](https://www.v7labs.com/blog/computer-vision-applications)
@@ -196,6 +210,7 @@ Detection process
   - [OpenGL Course - Create 3D and 2D Graphics With C++](https://www.youtube.com/watch?v=45MIykWJ-C4)
   - [IBM - What is computer vision?](https://www.ibm.com/hk-en/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information.)
   - [Computer Vision Algorithms and Applications by Richard Szeliski-2010](https://github.com/afondiel/cs-books/blob/main/computer-vision/Computer-Vision-Algorithms-and-Applications-Richard-Szeliski-2010.pdf)
+  - [OpenCV Course - Full Tutorial with Python - 4H - FreeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=69s)
 
 - notebooks
   - [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
