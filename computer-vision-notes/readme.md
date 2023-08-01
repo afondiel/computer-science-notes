@@ -9,7 +9,7 @@ Create a "Hello World" resources for Computer Vision.
 
 ## Contributing
 
-Please refer to the [CONTRIBUTING.md](../../CONTRIBUTING.md) file.
+Please refer to [CONTRIBUTING.md](..\CONTRIBUTING.md) file.
 
 
 

@@ -178,8 +178,7 @@ Detection process
 - [Deep Learning NN](..\ai\ml-notes\deep-learning-notes\neural-nets)
 - [Deep Learning NN Architectures](..\ai\ml-notes\deep-learning-notes\neural-nets-architecture-notes.md)
 
-
- - [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
+- [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
 
 
 ## References
