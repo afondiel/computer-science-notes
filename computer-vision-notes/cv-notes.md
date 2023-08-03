@@ -129,13 +129,11 @@ pixel representations
   - Opening(object)
   - Closure(hole)
   - Filter(freq)
-
 - **Operators**:
   - img(src) -> Img(destination)
   - img (src) -> information set
   - information set -> img(destination)
     
-
 
 ## CV Algorithms & Applications
 
@@ -192,15 +190,19 @@ Detection process
   - [Machine Perception](https://en.wikipedia.org/wiki/Machine_perception)
   - [Convolutional Neural Network - CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - Quora
-  - [What are the different subfields in computer vision?
-](https://www.quora.com/What-are-the-different-subfields-in-computer-vision)
+  - [What are the different subfields in computer vision?](https://www.quora.com/What-are-the-different-subfields-in-computer-vision)
 
 - Books 
   - [Computer Vision - resources](https://github.com/afondiel/cs-books/tree/main/computer-vision)
+
 - Courses - Blog posts
-  - Computer Vision roadmap :
+  - **Computer Vision roadmap** :
     - https://www.youtube.com/watch?v=jLcuVu5xdDo 
     - https://www.youtube.com/watch?v=DfPAvepK5Ws
+    - [Introduction to Computer Vision / Roadmap to CV Developer in 2022](https://www.karachidotai.com/introduction-to-computer-vision)
+    - [Computer Vision Tutorial for Beginners | Learn Computer Vision](https://www.projectpro.io/data-science-in-python-tutorial/computer-vision-tutorial-for-beginners)
+
+
   - [CS131 Computer Vision: Foundations and Applications - Stanford](http://vision.stanford.edu/teaching/cs131_fall1718/)
   - [Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)](https://www.youtube.com/watch?v=u6aEYuemt0M)
   - [v7labs - 27+ Most Popular Computer Vision Applications and Use Cases in 2022](https://www.v7labs.com/blog/computer-vision-applications)
@@ -210,8 +212,9 @@ Detection process
   - [IBM - What is computer vision?](https://www.ibm.com/hk-en/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information.)
   - [Computer Vision Algorithms and Applications by Richard Szeliski-2010](https://github.com/afondiel/cs-books/blob/main/computer-vision/Computer-Vision-Algorithms-and-Applications-Richard-Szeliski-2010.pdf)
   - [OpenCV Course - Full Tutorial with Python - 4H - FreeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=69s)
+  - [Computer Vision Tutorial - GeeksForGeeks](https://www.geeksforgeeks.org/computer-vision/)
 
-- notebooks
+- Notebooks
   - [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
 
 - papers 
