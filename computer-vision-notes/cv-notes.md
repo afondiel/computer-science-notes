@@ -5,20 +5,19 @@
 - [What is computer vision?](#what-is-computer-vision)
 - [Applications](#applications)
 - [Tools/frameworks](#toolsframeworks)
-- [Image processing notes](#image-processing-notes)
-  - [useful concepts](#useful-concepts)
-  - [Operations](#operations)
-- [Finding Lanes application](#finding-lanes-application)
-- [References :](#references-)
+- [Computer Vision Sub-fields/domains](#computer-vision-sub-fieldsdomains)
+- [CV Algorithms \& Applications](#cv-algorithms--applications)
+- [Computer Vision and Deep Learning](#computer-vision-and-deep-learning)
+- [CV AI Models - Non-exhautive list](#cv-ai-models---non-exhautive-list)
+- [CV Datasets - Non-exhautive list](#cv-datasets---non-exhautive-list)
+- [References](#references)
 
-## Overview
 
-This is a Computer Vision "Hello World" resources.
 ## What is computer vision?
 
 CV uses artificial intelligence (AI) to interpret visual data (digital images and videos ...) to take actions and make recommendations.
 
-- If AI enables computers to think, computer vision **enables them to see, observe and understand.**
+- If **AI** enables computers to think, computer vision **enables them to see, observe and understand.**
 
 ## Applications 
 
@@ -110,7 +109,7 @@ Detection process
 
 - [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
 
-## CV & AI Models - Non-exhautive list
+## CV AI Models - Non-exhautive list
 
 - AlexNet
 - BN-AlexNet
@@ -127,7 +126,7 @@ Detection process
 - VGG-16
 - VGG-19
 
-## CV & Dataset - Non-exhautive list
+## CV Datasets - Non-exhautive list
 
 1. ImageNet
 2. COCO (Common Objects in Context)
@@ -152,25 +151,26 @@ Src: [Top 10 Open-Source Datasets for Computer Vision in 2023](https://www.analy
   - [Electromagnetic Spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
   - [Machine Perception](https://en.wikipedia.org/wiki/Machine_perception)
   - [Convolutional Neural Network - CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
-- Quora
-  - [What are the different subfields in computer vision?](https://www.quora.com/What-are-the-different-subfields-in-computer-vision)
 
 - Books 
   - [Computer Vision - Resources](https://github.com/afondiel/cs-books/tree/main/computer-vision)
 
-- Courses - Blog posts
-  - **Computer Vision roadmap** :
-    - [Introduction to Computer Vision / Roadmap to CV Developer in 2022](https://www.karachidotai.com/introduction-to-computer-vision)
-    - [Computer Vision Tutorial for Beginners | Learn Computer Vision](https://www.projectpro.io/data-science-in-python-tutorial/computer-vision-tutorial-for-beginners)
-    - https://www.youtube.com/watch?v=jLcuVu5xdDo 
-    - https://www.youtube.com/watch?v=DfPAvepK5Ws
+- **Computer Vision roadmap** :
+  - [Introduction to Computer Vision / Roadmap to CV Developer in 2022](https://www.karachidotai.com/introduction-to-computer-vision)
+  - [Computer Vision Tutorial for Beginners | Learn Computer Vision](https://www.projectpro.io/data-science-in-python-tutorial/computer-vision-tutorial-for-beginners)
+  - https://www.youtube.com/watch?v=jLcuVu5xdDo 
+  - https://www.youtube.com/watch?v=DfPAvepK5Ws
 
-  - [Computer Vision Tutorial - GeeksForGeeks](https://www.geeksforgeeks.org/computer-vision/)
-  - [CS131 Computer Vision: Foundations and Applications - Stanford](http://vision.stanford.edu/teaching/cs131_fall1718/)
+- Courses - Blog posts
+
+  - [CS131 Computer Vision: Foundations and Applications - Stanford - Fall 2017](http://vision.stanford.edu/teaching/cs131_fall1718/)
+  - [CS231n Computer Vision Stanford - 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   - [IBM - What is computer vision?](https://www.ibm.com/hk-en/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information.)
+  - [Computer Vision Tutorial - GeeksForGeeks](https://www.geeksforgeeks.org/computer-vision/)
   - [v7labs - 27+ Most Popular Computer Vision Applications and Use Cases in 2022](https://www.v7labs.com/blog/computer-vision-applications)
   - [viso.ai - The 12 Most Popular Computer Vision Tools in 2022](https://viso.ai/computer-vision/the-most-popular-computer-vision-tools/)
   - [Lines Detection with Hough Transform](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
+  - [What are the different subfields in computer vision? - Quora](https://www.quora.com/What-are-the-different-subfields-in-computer-vision)
 
 - YT Videos & Free Tutorials: 
   - [Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)](https://www.youtube.com/watch?v=u6aEYuemt0M)
