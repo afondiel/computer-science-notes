@@ -12,7 +12,6 @@
 - [CV Datasets - Non-exhautive list](#cv-datasets---non-exhautive-list)
 - [References](#references)
 
-
 ## What is computer vision?
 
 CV uses artificial intelligence (AI) to interpret visual data (digital images and videos ...) to take actions and make recommendations.
@@ -125,6 +124,10 @@ Detection process
 - Inception-v4
 - VGG-16
 - VGG-19
+- ...
+
+- [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
+
 
 ## CV Datasets - Non-exhautive list
 
