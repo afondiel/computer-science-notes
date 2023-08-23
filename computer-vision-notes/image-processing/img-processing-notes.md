@@ -26,7 +26,7 @@ Digital image processing is the use of a digital computer to process digital ima
   
 GrayScale image (GS) : is one in which each pixel is a single sample representing only an amount of light. GS are composed exclusively of shades of gray, with the contrast ranging from black at the weakest intensity to white at the strongest
 .
-- Edge : rapid change in brightness
+- Edge : rapid change in brightness/intensity
 - Edge Detection : identifying sharp changes in intensity in adjacent(neighboring) pixels 
   
             ^
@@ -47,7 +47,7 @@ pixel representations
             0 : Black 
             255 : White 
 
-- Gradient : measure of change in brightness over adjacent pixels 
+- Gradient : measure of change in brightness/intensity over adjacent pixels 
   - strong gradient (0 - 255)
   - small gradient (0 - 15 ...)
 
