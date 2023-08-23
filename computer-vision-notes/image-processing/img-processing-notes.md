@@ -51,7 +51,7 @@ pixel representations
   - strong gradient (0 - 255)
   - small gradient (0 - 15 ...)
 
-- Hystogram: it is the distribution (frequency) of grayscale (GS) of an image
+- Histogram: it is the distribution (frequency) of grayscale (GS) of an image
 
         255
         ^(Pixels count/frequency)
