@@ -47,7 +47,7 @@ List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai :
 
 ## Computer Vision Sub-fields/domains
 
-![cv-diagram](./documentation/cv-diagram.png)
+![cv-diagram](./documentation/Computer-Vision-aplications-and-research-fields.png)
 
 Sub-domains of computer vision include :  
 - scene reconstruction, 

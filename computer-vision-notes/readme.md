@@ -1,7 +1,8 @@
 # Computer Vision - Notes
 
-![cv-diagram](./documentation/cv-diagram.png)
+![cv-diagram](./documentation/Computer-Vision-aplications-and-research-fields.png)
 
+Src: [Rui Nobrega](https://www.researchgate.net/figure/Computer-Vision-aplications-and-research-fields_fig1_258013244)
 ## Overview
 
 This is "Hello World" resources for Computer Vision.
