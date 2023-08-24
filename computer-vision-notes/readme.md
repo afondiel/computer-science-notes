@@ -1,8 +1,8 @@
 # Computer Vision - Notes
 
-![cv-diagram](./documentation/Computer-Vision-aplications-and-research-fields.png)
+![cv-fields](https://github.com/StanfordVL/cs131_notes/blob/master/lecture01/fields.png?raw=true)
 
-Src: [Rui Nobrega](https://www.researchgate.net/figure/Computer-Vision-aplications-and-research-fields_fig1_258013244)
+Src: [Stanford Visual Learning Lab - cs131 notes](https://github.com/StanfordVL/cs131_notes/tree/master)
 ## Overview
 
 This is "Hello World" resources for Computer Vision.
