@@ -110,7 +110,7 @@ Detection process
 
 ## CV AI Models - Non-exhautive list
 
-- AlexNet
+- [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
 - BN-AlexNet
 - BN-INI
 - ENet
@@ -131,7 +131,7 @@ Detection process
 
 ## CV Datasets - Non-exhautive list
 
-1. ImageNet
+1. [ImageNet](https://www.image-net.org/index.php)
 2. COCO (Common Objects in Context)
 3. Open Images
 4. Pascal VOC (Visual Object Classes)
@@ -141,12 +141,27 @@ Detection process
 8. CelebA
 9. CIFAR-10 and CIFAR-100
 10. MNIST
-    
+
 Src: [Top 10 Open-Source Datasets for Computer Vision in 2023](https://www.analyticsinsight.net/top-10-open-source-datasets-for-computer-vision-in-2023/)
+
+Automotive dataset: 
+
+- [Top 7 Automotive Datasets for in Computer Vision Projects ](https://www.labellerr.com/blog/top-7-automotive-datasets-for-computer-vision-projects/)
+- [Stanford Cars Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
+- [Top Self Driving Datasets](https://universe.roboflow.com/browse/self-driving)
+## Resources If You want to start Research Computer Vision 
+
+- [Quora - great feed](https://www.quora.com/How-do-I-start-research-in-computer-vision)
+- [Reddit - great feed](https://www.reddit.com/r/computervision/comments/13s9vm7/how_to_start_research/)
+- [International Journal of Computer Vision](https://www.springer.com/journal/11263/)
+- [Must read CV papers](https://www.quora.com/What-are-the-best-papers-about-computer-vision#NyMbP)
+- [Vision and Learning Lab - Old Website](http://vision.stanford.edu/)
+- [Vision and Learning Lab (SVL) - New Website](https://svl.stanford.edu/)
+- [Car dataset in multiple scenes for AI & Computer Vision](https://aws.amazon.com/marketplace/pp/prodview-6i7gc6mi7hlgs#offers)
 
 ## References
 
-- Wikipedia - Quick notes: 
+- Wikipedia - essential notes: 
   - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
   - [Human Visual System](https://en.wikipedia.org/wiki/Visual_system)
   - [Optics](https://en.wikipedia.org/wiki/Optics)
@@ -181,7 +196,7 @@ Src: [Top 10 Open-Source Datasets for Computer Vision in 2023](https://www.analy
   - [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
   - [OpenGL Course - Create 3D and 2D Graphics With C++](https://www.youtube.com/watch?v=45MIykWJ-C4)
   - Torchvision: https://www.youtube.com/watch?v=CU6bTEClzlw
-  - 
+  
 
 - Notebooks
   - [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
