@@ -69,28 +69,6 @@ Sub-domains of computer vision include :
 
 ## CV Algorithms & Applications
 
-**Finding Lanes application**
-
-- Setup the environment : 
-1. load image => OK 
-    => pip install opencv-python
-
-2. Gray Scale (Niveau de Gris (NG))
-
-Detection process
-
-- goal : (original img) => gradient img 
-
-3. original img (RGN : 3 channels ) => grayscale img (1 channel)
-4. Use Hough Transform : a polar parametric space (parameters of the line)
-    - pixels can mathematically be represented in a scatter graph 
-    - we can the draw a (straight) line => (y =  mx + b )
-    - convert cartesian plan (m, b) to polar plan (Theta, Rho)
-    - the (new)pixel is the intersection of the lines in Hough space
-    - Also the (new) pixel represents the line chosen by the system of votes (numbers of intersections ) of severals courves of the plan 
-    - vote : number of intersection  
-5. Optimization : 
-
 **Structure from motion algorithms**
 - Can reconstruct a sparse 3D point model of a large complex scene from hundreds of partially overlapping photographs
 
@@ -134,7 +112,7 @@ Detection process
 ## CV Datasets - Non-exhautive list
 
 1. [ImageNet](https://www.image-net.org/index.php)
-2. COCO (Common Objects in Context)
+2. [COCO (Common Objects in Context)](https://cocodataset.org/#home)
 3. Open Images
 4. Pascal VOC (Visual Object Classes)
 5. Cityscapes
