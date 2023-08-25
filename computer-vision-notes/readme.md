@@ -2,7 +2,7 @@
 
 ![cv-fields](https://github.com/StanfordVL/cs131_notes/blob/master/lecture01/fields.png?raw=true)
 
-Src: [Stanford Visual Learning Lab - cs131 notes](https://github.com/StanfordVL/cs131_notes/tree/master)
+Src: [Stanford Vision and Learning Lab - cs131 notes](https://github.com/StanfordVL/cs131_notes/tree/master)
 ## Overview
 
 This is "Hello World" resources for Computer Vision.
