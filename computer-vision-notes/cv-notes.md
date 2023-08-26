@@ -129,6 +129,8 @@ Automotive dataset:
 - [Top 7 Automotive Datasets for in Computer Vision Projects ](https://www.labellerr.com/blog/top-7-automotive-datasets-for-computer-vision-projects/)
 - [Stanford Cars Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
 - [Top Self Driving Datasets](https://universe.roboflow.com/browse/self-driving)
+
+
 ## Resources If You want to start Research Computer Vision 
 
 - [Quora - great feed](https://www.quora.com/How-do-I-start-research-in-computer-vision)
@@ -139,6 +141,19 @@ Automotive dataset:
 - [Vision and Learning Lab (SVL) - New Website](https://svl.stanford.edu/)
 - [Car dataset in multiple scenes for AI & Computer Vision](https://aws.amazon.com/marketplace/pp/prodview-6i7gc6mi7hlgs#offers)
 
+## Top Computer Vision Conferences
+
+- Conference on Neural Information Processing Systems (NeurIPS)
+- International Conference on Learning Representations (ICLR)
+- Computer Vision and Pattern Recognition (CVPR)
+- European Conference on Computer Vision (ECCV)
+- International Conference on Computer Vision (ICCV)
+- Conference on Robot Learning (CoRL)
+- British Machine Vision Conference (BMVC)
+- ...
+
+
+Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionaries Unite](https://augmentedstartups.medium.com/the-ultimate-guide-to-top-computer-vision-conferences-where-tech-visionaries-unite-72f99c990ac1)
 ## References
 
 - Wikipedia - essential notes: 
