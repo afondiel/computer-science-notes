@@ -66,7 +66,10 @@ pixel representations
         0                              255
 
 
-**Operations**
+## Operations
+
+![](https://www.tecgraf.puc-rio.br/im/en/doxygen/group__process.png)
+Src: [Tecgraf.puc-rio - Img Processing](https://www.tecgraf.puc-rio.br/im/en/doxygen/group__process.html)
 
 - **Region of ​​interest(ROI)**: a portion of an image that you want to filter or perform some other operation on
 - **Segmentation**: operation which consists of extracting geometric primitives from an image.
@@ -135,9 +138,12 @@ pixel representations
 ## References
 
 Wikipedia
-- [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
-- https://en.wikipedia.org/wiki/Digital_image
-- https://en.wikipedia.org/wiki/Analog_image_processing
-- [Signal processing](https://github.com/afondiel/research-notes/tree/master/signal-processing)
+- [Digital Image](https://en.wikipedia.org/wiki/Digital_image)
+- [Digital Image Processing (DIP)](https://en.wikipedia.org/wiki/Digital_image_processing)
+- [Analog Image Processing](https://en.wikipedia.org/wiki/Analog_image_processing)
+- [Signal Processing Notes ](https://github.com/afondiel/research-notes/tree/master/signal-processing)
+- [Digital Image Processing Basics - GeeksForGeeks](https://www.geeksforgeeks.org/digital-image-processing-basics/)
 
+Books: 
+- [Computer Vision books & resources](https://github.com/afondiel/cs-books/tree/main/computer-vision)
 
