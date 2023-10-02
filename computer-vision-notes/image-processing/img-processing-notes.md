@@ -1,4 +1,4 @@
-# Image Processing Notes
+# Image Processing (DIP) - Notes
 
 
 ## Overview
@@ -65,10 +65,16 @@ pixel representations
         +-----+------+-------+---------> (Gray Levels/intensity)
         0                              255
 
+## DIP Pipeline
+
+![](https://sbme-tutorials.github.io/2019/intro-to-BME/images/blk-diagram.png)
+
+Src: [SBME tutorials](https://sbme-tutorials.github.io/2019/intro-to-BME/notes/12_week12.html)
 
 ## Operations
 
 ![](https://www.tecgraf.puc-rio.br/im/en/doxygen/group__process.png)
+
 Src: [Tecgraf.puc-rio - Img Processing](https://www.tecgraf.puc-rio.br/im/en/doxygen/group__process.html)
 
 - **Region of ​​interest(ROI)**: a portion of an image that you want to filter or perform some other operation on
