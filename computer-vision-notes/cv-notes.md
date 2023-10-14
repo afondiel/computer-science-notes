@@ -84,12 +84,7 @@ Sub-domains of computer vision include :
 
 ## Computer Vision and Deep Learning
 
-- [Deep Learning NN](..\ai\ml-notes\deep-learning-notes\neural-nets)
-- [Deep Learning NN Architectures](..\ai\ml-notes\deep-learning-notes\neural-nets-architecture-notes.md)
-
-- [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
-
-## CV AI Models - Non-exhautive list
+**Non-exhautive Deep Learning NeuralNets list**
 
 - [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
 - BN-AlexNet
@@ -107,6 +102,11 @@ Sub-domains of computer vision include :
 - VGG-19
 - ...
 
+**Deep Learning Notes**
+
+- [Deep Learning NN](..\ai\deep-learning-notes\neural-nets)
+- [Deep Learning NN Architectures](..\ai\deep-learning-notes\neural-nets-architecture-notes.md)
+- [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
 - [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
 
 
