@@ -108,6 +108,7 @@ Sub-domains of computer vision include :
 - [Deep Learning NN Architectures](..\ai\deep-learning-notes\neural-nets-architecture-notes.md)
 - [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
 - [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
+- [Computer Vision & Keras resources](https://keras.io/examples/vision/)
 
 
 ## CV Datasets - Non-exhautive list
@@ -168,6 +169,9 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
 
 - [It's not just words: LLMs in Computer Vision - Microsoft Reactor](https://www.youtube.com/watch?v=ss-kyogPRNo)
 
+## Hello World!
+
+- [Handwriting Recognition Project](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/MNIST%20Image%20Recognition.ipynb)
 
 ## References
 
