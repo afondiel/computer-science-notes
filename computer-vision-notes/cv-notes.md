@@ -48,7 +48,7 @@ List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai:
 
 ## Computer Vision Sub-fields/domains
 
-![cv-diagram](./documentation/Computer-Vision-aplications-and-research-fields.png)
+![cv-diagram](./docs/Computer-Vision-aplications-and-research-fields.png)
 
 Src: [Rui Nobrega](https://www.researchgate.net/figure/Computer-Vision-aplications-and-research-fields_fig1_258013244)
 
