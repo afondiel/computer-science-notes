@@ -14,19 +14,23 @@
 
 ## What is Computer Vision (CV)?
 
-CV uses artificial intelligence (AI) to interpret visual data (digital images and videos ...) to take actions and make recommendations.
+CV uses artificial intelligence (AI) to interpret visual data (mainly digital images and videos ...) to take actions and make recommendations.
 
-- If **AI** enables computers to think, computer vision **enables them to see, observe and understand.**
+## How Does Computer Vision Work? 
+
+If **AI** enables computers to think, **computer vision** enables them to see, observe and understand.
+
+It does that by using [Deep Learning Neural Nets](../ai/deep-learning-notes/dl-notes.md) and a [Convolutional Neural Networks(CNN)](../ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
+
 
 ## Applications 
 
-- Augmented reality (AR)
-- Autonomous vehicles
-- Content-based image retrieval
 - Face recognition
 - Optical character recognition
+- Content-based image retrieval
+- Autonomous vehicles & Robotics
+- Augmented reality (AR)
 - Remote sensing
-- Robotics
 ...
 
 ## Tools/frameworks
@@ -82,34 +86,53 @@ Sub-domains of computer vision include :
 **Face detection algorithms**
 - Coupled with color-based clothing and hair detection algorithms, can locate and recognize the individuals in this image
 
-## Computer Vision and Deep Learning
+## Computer Vision & Deep Learning & LLMs & GenAI
 
-**Non-exhautive Deep Learning NeuralNets list**
+
+**Non-exhautive list of Deep Learning Models**
 
 - [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
 - BN-AlexNet
 - BN-INI
 - ENet
-- GooLeNet
+- GoogLeNet (Inception-v1)
 - ResNet-18
 - ResNet-34
 - ResNet-50
 - ResNet-101
-- ResNet-152
+- ResNet-152 
 - Inception-v3 
 - Inception-v4
 - VGG-16
 - VGG-19
 - ...
 
-**Deep Learning Notes**
+**Visual LLMs**
+- [LLM-in-Vision - Yong-Lu Li(@DirtyHarryLYL)](https://github.com/DirtyHarryLYL/LLM-in-Vision)
+- [Computer vision and Large Language Models (LLM)](https://www.moroccan-in-asia.com/post/computer-vision-and-large-language-models-llm)
+- [A Dive into Vision-Language Models - HuggingFace](https://huggingface.co/blog/vision_language_pretraining)
+- [How do Large Language Models (LLMs) Integrate with Computer Vision?](https://www.chooch.com/blog/how-to-integrate-large-language-models-with-computer-vision/)
+- [How do LLMs work with Vision AI? | OCR, Image & Video Analysis](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/how-do-llms-work-with-vision-ai-ocr-image-amp-video-analysis/ba-p/3835661)
 
-- [Deep Learning NN](..\ai\deep-learning-notes\neural-nets)
-- [Deep Learning NN Architectures](..\ai\deep-learning-notes\neural-nets-architecture-notes.md)
+- [It's not just words: LLMs in Computer Vision - Microsoft Reactor](https://www.youtube.com/watch?v=ss-kyogPRNo)
+
+**Visual GenAI**
+- [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+- [OpenAI DALL-E](https://en.wikipedia.org/wiki/DALL-E)
+- [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
+- [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
+
+**Deep Learning Research Notes**
+
+- [Deep Learning Neural Nets](..\ai\deep-learning-notes\neural-nets)
+- [Deep Learning Neural Nets Architectures](..\ai\deep-learning-notes\neural-nets-architecture-notes.md)
 - [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
 - [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
 - [Computer Vision & Keras resources](https://keras.io/examples/vision/)
 
+**Computer Vision Paper Review**
+
+- [paper-review-and-code](./research-papers/paper-review-and-code/)
 
 ## CV Datasets - Non-exhautive list
 
@@ -132,16 +155,9 @@ Automotive dataset:
 - [Stanford Cars Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
 - [Top Self Driving Datasets](https://universe.roboflow.com/browse/self-driving)
 
+## Hello World!
 
-## Resources If You want to start Research Computer Vision 
-
-- [Quora - great feed](https://www.quora.com/How-do-I-start-research-in-computer-vision)
-- [Reddit - great feed](https://www.reddit.com/r/computervision/comments/13s9vm7/how_to_start_research/)
-- [International Journal of Computer Vision](https://www.springer.com/journal/11263/)
-- [Must read CV papers](https://www.quora.com/What-are-the-best-papers-about-computer-vision#NyMbP)
-- [Vision and Learning Lab - Old Website](http://vision.stanford.edu/)
-- [Vision and Learning Lab (SVL) - New Website](https://svl.stanford.edu/)
-- [Car dataset in multiple scenes for AI & Computer Vision](https://aws.amazon.com/marketplace/pp/prodview-6i7gc6mi7hlgs#offers)
+- [Handwriting Recognition Project](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/MNIST%20Image%20Recognition.ipynb)
 
 ## Top Computer Vision Conferences
 
@@ -154,24 +170,18 @@ Automotive dataset:
 - British Machine Vision Conference (BMVC)
 - ...
 
-
 Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionaries Unite](https://augmentedstartups.medium.com/the-ultimate-guide-to-top-computer-vision-conferences-where-tech-visionaries-unite-72f99c990ac1)
 
+## Computer Vision Researcher - Starting Resources   
 
-## LLMs for Computer Vision
+- [Quora - great feed](https://www.quora.com/How-do-I-start-research-in-computer-vision)
+- [Reddit - great feed](https://www.reddit.com/r/computervision/comments/13s9vm7/how_to_start_research/)
+- [International Journal of Computer Vision](https://www.springer.com/journal/11263/)
+- [Must read CV papers](https://www.quora.com/What-are-the-best-papers-about-computer-vision#NyMbP)
+- [Vision and Learning Lab - Old Website](http://vision.stanford.edu/)
+- [Vision and Learning Lab (SVL) - New Website](https://svl.stanford.edu/)
+- [Car dataset in multiple scenes for AI & Computer Vision](https://aws.amazon.com/marketplace/pp/prodview-6i7gc6mi7hlgs#offers)
 
-- [LLM-in-Vision - Yong-Lu Li(@DirtyHarryLYL)](https://github.com/DirtyHarryLYL/LLM-in-Vision)
-
-- [Computer vision and Large Language Models (LLM)](https://www.moroccan-in-asia.com/post/computer-vision-and-large-language-models-llm)
-- [A Dive into Vision-Language Models - HuggingFace](https://huggingface.co/blog/vision_language_pretraining)
-- [How do Large Language Models (LLMs) Integrate with Computer Vision?](https://www.chooch.com/blog/how-to-integrate-large-language-models-with-computer-vision/)
-- [How do LLMs work with Vision AI? | OCR, Image & Video Analysis](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/how-do-llms-work-with-vision-ai-ocr-image-amp-video-analysis/ba-p/3835661)
-
-- [It's not just words: LLMs in Computer Vision - Microsoft Reactor](https://www.youtube.com/watch?v=ss-kyogPRNo)
-
-## Hello World!
-
-- [Handwriting Recognition Project](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/MNIST%20Image%20Recognition.ipynb)
 
 ## References
 
@@ -275,7 +285,7 @@ Geometry
 - [Geometry Processing](https://en.wikipedia.org/wiki/Geometry_processing)
 - [3D space](https://en.wikipedia.org/wiki/Three-dimensional_space)
 
-University of Toronto: 
+University of Toronto:
 
 - [CSC2541:Visual Perception for Autonomous Driving - Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
 
