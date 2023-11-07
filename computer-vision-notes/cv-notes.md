@@ -191,35 +191,81 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
 - https://www.youtube.com/watch?v=jLcuVu5xdDo 
 - https://www.youtube.com/watch?v=DfPAvepK5Ws
 
-Wikipedia - essential notes: 
-- [Light](https://en.wikipedia.org/wiki/Light)
-- [Electromagnetic Spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
-- [Human Visual System](https://en.wikipedia.org/wiki/Visual_system)
-- [Optics](https://en.wikipedia.org/wiki/Optics)
-- [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
-- [Machine Perception](https://en.wikipedia.org/wiki/Machine_perception)
-- [Convolutional Neural Network - CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+Wikipedia: 
+
+- Essential notes
+
+  - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
+  - [Machine Perception](https://en.wikipedia.org/wiki/Machine_perception)
+  - [Depth Perception](https://en.wikipedia.org/wiki/Depth_perception)
+  - [Understanding Depth Perception in Computer Vision - Nasscom](https://coe-dsai.nasscom.in/understanding-depth-perception-in-computer-vision/)
+
+- Environment
+  - [Light](https://en.wikipedia.org/wiki/Light)
+  - [Electromagnetic Radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
+  - [Electromagnetic Spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
+  - [Optics](https://en.wikipedia.org/wiki/Optics)
+  - [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
+
+- Human perception 
+  - [Human Eye](https://en.wikipedia.org/wiki/Human_eye)
+  - [Visual System](https://en.wikipedia.org/wiki/Visual_system)
+  - [Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex)
+
+- Signal Processing
+
+  - [Multidimensional Signal Processing](https://en.wikipedia.org/wiki/Category:Multidimensional_signal_processing)
+  - [Image Processing](https://en.wikipedia.org/wiki/Category:Image_processing)
+  - [Video Processing](https://en.wikipedia.org/wiki/Category:Video_processing)
+  - [Geometry Processing](https://en.wikipedia.org/wiki/Category:Geometry_processing)
+
+- Geometry
+  - [Stereometry or Solid Geometry - 3D (Objects) Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
+  - [Geometry Processing](https://en.wikipedia.org/wiki/Geometry_processing)
+  - [3D space](https://en.wikipedia.org/wiki/Three-dimensional_space)
+
+- Deep Learning
+
+  - [Convolutional Neural Network - CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
+Vision sensors
+- Camera Sensor: 
+  - [How does a camera work? - Branch Education ](https://www.youtube.com/watch?v=B7Dopv6kzJA)
+  - [The Science of Camera Sensors - Filmmaker IQ](https://www.youtube.com/watch?v=MytCfECfqWc)
+  - [Understanding The Digital Image Sensor](https://thinklucid.com/tech-briefs/understanding-digital-image-sensors/)
+  - [Image Sensor](https://en.wikipedia.org/wiki/Image_sensor)
+  - [The ultimate image sensor guide: EMCCD vs. SCMOS vs. CMOS vs. CCD](https://www.e-consystems.com/blog/camera/technology/the-ultimate-image-sensor-guide-emccd-vs-scmos-vs-cmos-vs-ccd/)
+  - [Types Of Camera Sensor](https://www.photometrics.com/learn/camera-basics/types-of-camera-sensor)
+- Optical sensors:
+  - [Electro-optical sensor](https://en.wikipedia.org/wiki/Electro-optical_sensor)
+  - [Optical Sensor Basics and Applications](https://www.elprocus.com/optical-sensors-types-basics-and-applications/)
+
 
 Machine Vision
 - [Machine Vision](https://en.wikipedia.org/wiki/Machine_vision)
-  - [A Practical Guide to Machine Vision Lighting](https://www.ni.com/en/shop/choosing-the-right-hardware-for-your-vision-applications/a-practical-guide-to-machine-vision-lighting.html#:~:text=Back%20to%20top-,Vision%20Illumination%20Sources%20and%20Spectral%20Content,(mercury)%2C%20and%20xenon.)
-  - Vision sensors
-    - Camera Sensor: 
-      - [How does a camera work? - Branch Education ](https://www.youtube.com/watch?v=B7Dopv6kzJA)
-      - [The Science of Camera Sensors - Filmmaker IQ](https://www.youtube.com/watch?v=MytCfECfqWc)
-      - [Understanding The Digital Image Sensor](https://thinklucid.com/tech-briefs/understanding-digital-image-sensors/)
-      - [Image Sensor](https://en.wikipedia.org/wiki/Image_sensor)
-      - [The ultimate image sensor guide: EMCCD vs. SCMOS vs. CMOS vs. CCD](https://www.e-consystems.com/blog/camera/technology/the-ultimate-image-sensor-guide-emccd-vs-scmos-vs-cmos-vs-ccd/)
-      - [Types Of Camera Sensor](https://www.photometrics.com/learn/camera-basics/types-of-camera-sensor)
-    - Optical sensors:
-      - [Electro-optical sensor](https://en.wikipedia.org/wiki/Electro-optical_sensor)
-      - [Optical Sensor Basics and Applications](https://www.elprocus.com/optical-sensors-types-basics-and-applications/)
+- [A Practical Guide to Machine Vision Lighting](https://www.ni.com/en/shop/choosing-the-right-hardware-for-your-vision-applications/a-practical-guide-to-machine-vision-lighting.html#:~:text=Back%20to%20top-,Vision%20Illumination%20Sources%20and%20Spectral%20Content,(mercury)%2C%20and%20xenon.)
 
 
-Courses - Blog posts
+Lectures & Tutorials:
 
-- [CS131 Computer Vision: Foundations and Applications - Stanford - Fall 2017](http://vision.stanford.edu/teaching/cs131_fall1718/)
-- [CS231n Computer Vision Stanford - 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- Stanford
+  - [CS131 Computer Vision: Foundations and Applications - Stanford - Fall 2017](http://vision.stanford.edu/teaching/cs131_fall1718/)
+  - [CS231A: Computer Vision, From 3D Reconstruction to Recognition Winter 2023](https://web.stanford.edu/class/cs231a/course_notes.html) 
+  - [CS231n Computer Vision Stanford - 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+  - [Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)](https://www.youtube.com/watch?v=u6aEYuemt0M)
+
+- Udemy Course:
+  - [The Complete Self-Driving Car Course Applied Deep-Learning - Udemy - Notes](https://github.com/afondiel/The-Complete-Self-Driving-Car-Course-Udemy/blob/main/self-driving-cars-dl-notes.md)
+
+- FreeCodeCamp:
+  - [OpenCV Course - Full Tutorial with Python - 4H - FreeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=69s)
+  - [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
+  - [OpenGL Course - Create 3D and 2D Graphics With C++](https://www.youtube.com/watch?v=45MIykWJ-C4)
+- Torchvision: https://www.youtube.com/watch?v=CU6bTEClzlw
+
+- University of Toronto:
+  - [CSC2541:Visual Perception for Autonomous Driving - Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
+
 - [IBM - What is computer vision?](https://www.ibm.com/hk-en/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information.)
 - [Computer Vision Tutorial - GeeksForGeeks](https://www.geeksforgeeks.org/computer-vision/)
 - [v7labs - 27+ Most Popular Computer Vision Applications and Use Cases in 2022](https://www.v7labs.com/blog/computer-vision-applications)
@@ -227,12 +273,6 @@ Courses - Blog posts
 - [Lines Detection with Hough Transform](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
 - [What are the different subfields in computer vision? - Quora](https://www.quora.com/What-are-the-different-subfields-in-computer-vision)
 
-YT Videos & Free Tutorials: 
-- [Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)](https://www.youtube.com/watch?v=u6aEYuemt0M)
-- [OpenCV Course - Full Tutorial with Python - 4H - FreeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=69s)
-- [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
-- [OpenGL Course - Create 3D and 2D Graphics With C++](https://www.youtube.com/watch?v=45MIykWJ-C4)
-- Torchvision: https://www.youtube.com/watch?v=CU6bTEClzlw
 
 Notebooks
 - [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
@@ -252,42 +292,8 @@ Tesla AI Day :
 
 Research Notes resources:
 
-- [The Complete Self-Driving Car Course Applied Deep-Learning - Udemy - Notes](https://github.com/afondiel/The-Complete-Self-Driving-Car-Course-Udemy/blob/main/self-driving-cars-dl-notes.md)
 - [Research Notes - cv resources](https://github.com/afondiel/research-notes/blob/master/computer-vision-notes/cv-notes.md)
 - [CONVOLUTIONAL NEURAL NETWORK (CNN)](https://github.com/afondiel/research-notes/blob/master/ai/ml-notes/deep-learning-notes/neural-nets-architecture-notes.md)
-
-CV
-- [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
-- [Machine Perception](https://en.wikipedia.org/wiki/Machine_perception)
-- [Depth Perception](https://en.wikipedia.org/wiki/Depth_perception)
-- [Understanding Depth Perception in Computer Vision - Nasscom](https://coe-dsai.nasscom.in/understanding-depth-perception-in-computer-vision/)
-
-Environment
-- [Light](https://en.wikipedia.org/wiki/Light)
-- [Electromagnetic Radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
-- [Optics](https://en.wikipedia.org/wiki/Optics)
-- [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
-
-Human perception 
-- [Human Eye](https://en.wikipedia.org/wiki/Human_eye)
-- [Visual System](https://en.wikipedia.org/wiki/Visual_system)
-- [Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex)
-
-Signal Processing
-
-- [Multidimensional Signal Processing](https://en.wikipedia.org/wiki/Category:Multidimensional_signal_processing)
-- [Image Processing](https://en.wikipedia.org/wiki/Category:Image_processing)
-- [Video Processing](https://en.wikipedia.org/wiki/Category:Video_processing)
-- [Geometry Processing](https://en.wikipedia.org/wiki/Category:Geometry_processing)
-
-Geometry
-- [Stereometry or Solid Geometry - 3D (Objects) Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
-- [Geometry Processing](https://en.wikipedia.org/wiki/Geometry_processing)
-- [3D space](https://en.wikipedia.org/wiki/Three-dimensional_space)
-
-University of Toronto:
-
-- [CSC2541:Visual Perception for Autonomous Driving - Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
 
 Papers 
 - [Research Papers Archives](https://github.com/afondiel/research-notes/tree/master/computer-vision-notes/research-papers)
