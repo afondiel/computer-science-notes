@@ -2,38 +2,54 @@
 
 ## Table of Contents
 
-- [What is computer vision?](#what-is-computer-vision)
+- [Overview](#overview)
+- [What's Computer Vision (CV)?](#whats-computer-vision-cv)
+- [How It Works?](#how-it-works)
+- [Computer Vision Pipeline Architecture](#computer-vision-pipeline-architecture)
 - [Applications](#applications)
-- [Tools/frameworks](#toolsframeworks)
+- [Tools \& Frameworks](#tools--frameworks)
 - [Computer Vision Sub-fields/domains](#computer-vision-sub-fieldsdomains)
 - [CV Algorithms \& Applications](#cv-algorithms--applications)
-- [Computer Vision and Deep Learning](#computer-vision-and-deep-learning)
-- [CV AI Models - Non-exhautive list](#cv-ai-models---non-exhautive-list)
+- [Computer Vision \& Deep Learning \& LLMs \& GenAI](#computer-vision--deep-learning--llms--genai)
 - [CV Datasets - Non-exhautive list](#cv-datasets---non-exhautive-list)
+- [Hello World!](#hello-world)
+- [CV Projects](#cv-projects)
+- [Top Computer Vision Conferences](#top-computer-vision-conferences)
+- [Computer Vision Researcher - Starting Resources](#computer-vision-researcher---starting-resources)
 - [References](#references)
 
-## What is Computer Vision (CV)?
+## Overview
+
+This is a "Hello World" resources for Computer Vision. 
+
+### What's Computer Vision (CV)?
 
 CV uses artificial intelligence (AI) to interpret visual data (mainly digital images and videos ...) to take actions and make recommendations.
 
-## How Does Computer Vision Work? 
+### How It Works? 
 
-If **AI** enables computers to think, **computer vision** enables them to see, observe and understand.
+If [AI](../ai/ai-notes.md) enables computers to think, **computer vision** enables them to see, observe and understand the world.
 
-It does that by using [Deep Learning Neural Nets](../ai/deep-learning-notes/dl-notes.md) and a [Convolutional Neural Networks(CNN)](../ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
+CV uses a variety of algorithms and a special [deep learning](../ai/deep-learning-notes/dl-notes.md) neural nets called [Convolutional Neural Networks (CNN)](../ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb).
 
+## Computer Vision Pipeline Architecture
+
+1. Image acquisition
+2. Image preprocessing
+3. Feature Extraction
+4. Output: Interpretation & analysis
 
 ## Applications 
 
 - Face recognition
-- Optical character recognition
+- Optical Character Recognition (OCR)
 - Content-based image retrieval
 - Autonomous vehicles & Robotics
 - Augmented reality (AR)
 - Remote sensing
 ...
 
-## Tools/frameworks
+## Tools & Frameworks
 
 List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai: 
 1. OpenCV
@@ -49,6 +65,7 @@ List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai:
 11. OpenVINO
 12. DeepFace
 ...
+
 
 ## Computer Vision Sub-fields/domains
 
@@ -71,7 +88,6 @@ Sub-domains of computer vision include :
 - image restoration
 - ...
     
-
 ## CV Algorithms & Applications
 
 **Structure from motion algorithms**
@@ -157,7 +173,11 @@ Automotive dataset:
 
 ## Hello World!
 
-- [Handwriting Recognition Project](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/MNIST%20Image%20Recognition.ipynb)
+- [Handwriting Recognition Project](../ai/deep-learning-notes/neural-nets/notebook/MNIST_Image_Recognition.ipynb)
+
+## CV Projects
+
+Please refer to the [/lab](./lab/) repo. 
 
 ## Top Computer Vision Conferences
 
@@ -218,6 +238,7 @@ Wikipedia:
   - [Image Processing](https://en.wikipedia.org/wiki/Category:Image_processing)
   - [Video Processing](https://en.wikipedia.org/wiki/Category:Video_processing)
   - [Geometry Processing](https://en.wikipedia.org/wiki/Category:Geometry_processing)
+  - [Content Based Image Retrieval - (CBIR)](https://en.wikipedia.org/wiki/Content-based_image_retrieval)
 
 - Geometry
   - [Stereometry or Solid Geometry - 3D (Objects) Geometry](https://en.wikipedia.org/wiki/Solid_geometry)

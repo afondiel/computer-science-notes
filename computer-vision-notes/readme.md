@@ -5,7 +5,7 @@
 Src: [Stanford Vision and Learning Lab - cs131 notes](https://github.com/StanfordVL/cs131_notes/tree/master)
 ## Overview
 
-This is "Hello World" resources for Computer Vision.
+This is a "Hello World" resources for Computer Vision.
 
 
 ## Contributing
