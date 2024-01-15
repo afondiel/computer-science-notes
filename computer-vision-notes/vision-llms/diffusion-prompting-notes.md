@@ -10,7 +10,7 @@
 
 ## Introduction
 ### What's stable diffusion prompting?
-Stable diffusion prompting is a technique for generating realistic and diverse images from text descriptions using a deep neural network model called Stable Diffusion¹.
+Stable diffusion prompting is a technique for generating realistic and diverse images from text descriptions using a deep neural network model called **Stable Diffusion**.
 
 ### Applications
 Stable diffusion prompting can be used for various creative and artistic purposes, such as:
@@ -25,11 +25,11 @@ Stable diffusion prompting can be used for various creative and artistic purpose
 
 Stable diffusion prompting works by using a text encoder and an image decoder in a pipeline. 
 
-The text encoder converts the text prompt into a vector representation, called an embedding, that captures the semantic meaning of the text. 
+- The text encoder converts the text prompt into a vector representation, called an embedding, that captures the semantic meaning of the text. 
 
-The image decoder takes the embedding as an input and generates an image that matches the text prompt. 
+- The image decoder takes the embedding as an input and generates an image that matches the text prompt. 
 
-The image decoder is based on a stable diffusion model, which is a type of generative model that can produce high-quality and diverse images by gradually adding details and noise to a random initial image³.
+- The image decoder is based on a stable diffusion model, which is a type of generative model that can produce high-quality and diverse images by gradually adding details and noise to a random initial image³.
 
 ## Tools & Frameworks
 There are several tools and frameworks that can be used to perform stable diffusion prompting, such as:
