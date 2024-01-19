@@ -1,11 +1,11 @@
-# [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) - Paper Review
+# ImageNet Classification with Deep Convolutional Neural Networks - Paper Review
 
 
 **Introduction**
 
 Deep convolutional neural networks (CNNs) have achieved state-of-the-art results on many image classification tasks. However, training such networks is challenging due to the large number of parameters involved and the difficulty of obtaining labeled training data.
 
-**Problem and Methodologies**
+**Problem and Methodology**
 
 The authors propose a new method for training CNNs on large datasets. Their method uses a combination of techniques, including:
 
@@ -28,3 +28,11 @@ The authors have presented a new method for training CNNs on large datasets. The
 **Authors' names and organizations**
 
 Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton, University of Toronto
+
+
+## References
+
+- Paper: 
+  - [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+- Paper with code:
+  - [Code & Benchmarks](https://paperswithcode.com/dataset/imagenet) 
