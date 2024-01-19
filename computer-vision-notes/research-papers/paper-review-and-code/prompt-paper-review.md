@@ -1,65 +1,5 @@
 # Prompt for Paper Review and Summarization    
 
-## Prompts: 
-
-`prompt1: summarize import insights`
-
-```
-Act as a machine learning expert. I want you to give a short summary of the transformers model from the paper "Attention is all you need ", focusing on the methodology and findings. I need you give the summarization in the following order in a markdown format: 
-- Introduction
-- architecture pipeline
-- How transformers model works ? 
-- Machine translation
-- Pros & cons
-- Conclusion
-- Authors names
-```
-
-`prompt2: summarize import insights`
-
-```
-Act as an academician. I will provide you a sequence of scientific papers and you will be responsible for reviewing them and providing a concise summary in APA style. The first paper is entitled "<paper title, authors/organization, year> / <url>". Organize the contents into the following markdown format: 
-- Introduction
-- Problem and Methodologies
-- Architecture pipeline
-- Findings 
-- Conclusion
-- Authors' names and organizations
-```
-
-`prompt2.1: summarize import insights`
-
-```
-Act as an academician. I will provide you a sequence of reseach papers and you will do a review and provide a summary(APA style). 
-
-The summary has the following format:
-'''
-- Abstract
-- Introduction
-- Problem and Solution(Methodologies)
-- System Architecture pipeline
-- Findings
-- Conclusion
-- Authors' and organizations
-'''
-
-Here are some rules:
-- Make it concise and succinct to read
-- Do not use hashtag or emojis. Ever.
-
-I am going to give the name of the research paper and you will write a summary and output in markdown format.
-
-Do you understand?
-```
-
-`prompt3: Extract Relevant information/insights`
-
-```
-Your task is to extract relevant information from the research paper: "Levels of AGI: Operationalizing Progress on the Path to AGI"  from `google deepmind`
-
-Extract the information relevant to `robot` and `AGI embodiment`
-``` 
-
 ## Setup Config
 
 ### ChatGPT
@@ -79,31 +19,100 @@ Config: `default`
 - No issues with bard
 
 
-## Example using transformer paper:
+## Prompts History 
+
+`p1: summarize import insights`
+
+```
+Act as a machine learning expert. I want you to give a short summary of the transformers model from the paper "Attention is all you need ", focusing on the methodology and findings. I need you give the summarization in the following order in a markdown format: 
+- Introduction
+- architecture pipeline
+- How transformers model works ? 
+- Machine translation
+- Pros & cons
+- Conclusion
+- Authors names
+```
+
+`p2: summarize import insights`
+
+```
+Act as an academician. I will provide you a sequence of scientific papers and you will be responsible for reviewing them and providing a concise summary in APA style. The first paper is entitled "<paper title, authors/organization, year> / <url>". Organize the contents into the following markdown format: 
+- Introduction
+- Problem and Methodologies
+- Architecture pipeline
+- Findings 
+- Conclusion
+- Authors' names and organizations
+```
+
+`p2.1: summarize import insights`
+
+```
+Act as an academician. I will provide you with a sequence of research papers and you write a short-form summary in APA style. 
+
+The summary has the following structure:
+"""
+- Abstract
+- Introduction
+- Problem and Solution (Methodology)
+- System Architecture Pipeline
+- Findings
+- Conclusion
+- Authors and organizations
+"""
+
+Here are the rules:
+- Create a title of the summary 
+- Output the content in a markdown format based on the structure given above
+- organize each paragraph in a short list of 3-5 bullet
+- make each paragrashorter
+- Do not use hashtags or emojis. Ever.
+
+I am going to give you the paper name and you are going to write short-form based on that paper name.
+
+Do you understand?
+```
+
+`p2-transition`: the paper= {title} : {link}
 
 
-## Introduction
-The paper "Attention is all you need" introduces the Transformers model, a novel architecture for sequence-to-sequence tasks in natural language processing. This model eliminates the need for recurrent or convolutional layers traditionally used in sequence models and replaces them with attention mechanisms.
 
-## Architecture Pipeline
-The architecture of the Transformers model consists of an encoder-decoder framework. The encoder takes an input sequence and generates a sequence of continuous representations, while the decoder takes these representations and generates the output sequence. Both the encoder and decoder are composed of multiple identical layers, and each layer has two sub-layers: a multi-head self-attention mechanism and a position-wise fully connected feed-forward network.
+`p3: Extract Relevant information/insights`
 
-## How Transformers Model Works?
-The key concept in the Transformers model is self-attention. Self-attention allows the model to focus on different parts of the input sequence while computing the representation for each position. It assigns weights to each input token based on its relevance to other tokens in the sequence, capturing dependencies and relationships effectively. Self-attention is performed multiple times in parallel, with each instance attending to different parts of the sequence. This parallelization improves the model's ability to capture long-range dependencies.
+```
+Your task is to extract relevant information from the research paper: "Levels of AGI: Operationalizing Progress on the Path to AGI"  from `google deepmind`
 
-Additionally, the Transformers model incorporates positional encoding to consider the order of the tokens in the input sequence. Positional encoding is added to the input embeddings and provides the model with information about the token's position in the sequence.
+Extract the information relevant to `robot` and `AGI embodiment`
+``` 
 
-## Machine Translation
-One of the main applications explored in the paper is machine translation. The Transformers model achieves state-of-the-art performance on the WMT 2014 English-German and English-French translation tasks, surpassing previous models based on recurrent or convolutional architectures. The model's ability to capture long-range dependencies and the parallelization of self-attention contribute to its success in machine translation.
+`p4 - last update`
 
-## Pros & Cons
-The Transformers model brings several advantages compared to traditional sequence models. It avoids the computational constraints of recurrent networks by parallelizing the attention mechanism. This parallelization enables more efficient training and inference, making the Transformers model faster. Additionally, the model achieves superior performance on various natural language processing tasks, including machine translation.
+```
+I am going to train you to write short-form paper summary in APA style.
 
-However, the Transformers model requires a significant amount of computational resources due to the self-attention mechanism's quadratic complexity with respect to the input sequence length. This scalability issue makes it challenging to process very long sequences. Furthermore, the self-attention mechanism may struggle to capture local dependencies as effectively as recurrent models in certain cases.
+The summary has the following markdown structure:
+"""
+- Abstract
+- Introduction
+- Problem and Solution (Methodology)
+- System Architecture Pipeline
+- Findings
+- Conclusion
+- Authors and organizations
+"""
 
-## Conclusion
-The paper "Attention is all you need" presents the Transformers model, which revolutionizes sequence-to-sequence tasks in natural language processing. By leveraging self-attention mechanisms and parallelization, the model achieves state-of-the-art results in machine translation and other NLP tasks. Although the Transformers model has some drawbacks, its performance and efficiency advancements make it a significant breakthrough in the field of deep learning.
+Here are the rules:
+- The summary structure is `H2` level
+- Create a title for the summary
+- Use 3-5 succinct bullet lists for each section of the summary.
+- generate shorter and concise content
+- Do not use hashtags or emojis. Ever.
 
-## Authors' Names
-The authors of the paper "Attention is all you need" are Vaswani, Ashish; Shazeer, Noam; Parmar, Niki; Uszkoreit, Jakob; Jones, Llion; Gomez, Aidan N.; Kaiser, Łukasz; and Polosukhin, Illia.
+I am going to give you the paper name and you are going to write a short-form piece based on structure given at the start.
+
+Do you understand?
+```
+`p4-transition`: the paper= {title} : {link}
+
 
