@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [What's Computer Vision (CV)?](#whats-computer-vision-cv)
 - [How It Works?](#how-it-works)
 - [Computer Vision Pipeline Architecture](#computer-vision-pipeline-architecture)
@@ -17,10 +16,7 @@
 - [Top Computer Vision Conferences](#top-computer-vision-conferences)
 - [Computer Vision Researcher - Starting Resources](#computer-vision-researcher---starting-resources)
 - [References](#references)
-
-## Overview
-
-This is a "Hello World" resources for Computer Vision. 
+ 
 
 ### What's Computer Vision (CV)?
 
@@ -32,7 +28,7 @@ If [AI](../ai/ai-notes.md) enables computers to think, **computer vision** enabl
 
 CV uses a variety of algorithms and a special [deep learning](../ai/deep-learning-notes/dl-notes.md) neural nets called [Convolutional Neural Networks (CNN)](../ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb).
 
-## Computer Vision Pipeline Architecture
+## Computer Vision (Basic) Pipeline Architecture
 
 1. Image acquisition
 2. Image preprocessing
@@ -61,7 +57,7 @@ List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai:
 7. Keras
 8. SimpleCV
 9. BoofCV
-10. CAFFE
+10. [CAFFE](https://caffe.berkeleyvision.org/)
 11. OpenVINO
 12. DeepFace
 ...
@@ -102,26 +98,22 @@ Sub-domains of computer vision include :
 **Face detection algorithms**
 - Coupled with color-based clothing and hair detection algorithms, can locate and recognize the individuals in this image
 
-## Computer Vision & Deep Learning & LLMs & GenAI
+## Computer Vision & Deep Learning & GenAI (LLMs, Vision LLMs...)
+
+**Non-exhautive list of Conv Nets (CNN) Archictectures**
+
+- [AlexNet](https://en.wikipedia.org/wiki/AlexNet), BN-AlexNet, BN-INI, ENet, GoogLeNet (Inception-v1), ResNet-18, ResNet-34, ResNet-50, ResNet-101, ResNet-152 , Inception-v3 , Inception-v4, VGG-16, VGG-19, ViT, ...
+
+![](https://camo.githubusercontent.com/728e3980abb477ced930abd05634becfcc9c74c3369a713304e39f4baaad3b43/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f312a6e31366c6a336c536b7a326d694d635f3563766b72412e6a706567)
+(From: [Benchmark Analysis of Representative Deep Neural Network Architectures - Luigi Celona (@CeLuigi) - 2018](https://arxiv.org/pdf/1810.00736.pdf))
 
 
-**Non-exhautive list of Deep Learning Models**
 
-- [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
-- BN-AlexNet
-- BN-INI
-- ENet
-- GoogLeNet (Inception-v1)
-- ResNet-18
-- ResNet-34
-- ResNet-50
-- ResNet-101
-- ResNet-152 
-- Inception-v3 
-- Inception-v4
-- VGG-16
-- VGG-19
-- ...
+**Visual GenAI**
+- [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+- [OpenAI DALL-E](https://en.wikipedia.org/wiki/DALL-E)
+- [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
+- [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 
 **Visual LLMs**
 - [LLM-in-Vision - Yong-Lu Li(@DirtyHarryLYL)](https://github.com/DirtyHarryLYL/LLM-in-Vision)
@@ -132,17 +124,11 @@ Sub-domains of computer vision include :
 
 - [It's not just words: LLMs in Computer Vision - Microsoft Reactor](https://www.youtube.com/watch?v=ss-kyogPRNo)
 
-**Visual GenAI**
-- [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
-- [OpenAI DALL-E](https://en.wikipedia.org/wiki/DALL-E)
-- [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
-- [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
-
 **Deep Learning Research Notes**
 
 - [Deep Learning Neural Nets](..\ai\deep-learning-notes\neural-nets)
 - [Deep Learning Neural Nets Architectures](..\ai\deep-learning-notes\neural-nets-architecture-notes.md)
-- [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
+- [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/computer-science-open-catalog/blob/master/ai/deep-learning-notes/neural-nets/notebook/convolutional-neural-network.ipynb)
 - [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
 - [Computer Vision & Keras resources](https://keras.io/examples/vision/)
 
@@ -296,7 +282,7 @@ Lectures & Tutorials:
 
 
 Notebooks
-- [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/research-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
+- [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/computer-science-open-catalog/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
 
 Tesla Vision vs Lidar : 
 - [Tesla autonomy neural networks How AI neural networks function in Tesla - By Andrej Karpathy](https://www.youtube.com/watch?v=eZOHA6Uy52k)
@@ -313,11 +299,11 @@ Tesla AI Day :
 
 Research Notes resources:
 
-- [Research Notes - cv resources](https://github.com/afondiel/research-notes/blob/master/computer-vision-notes/cv-notes.md)
-- [CONVOLUTIONAL NEURAL NETWORK (CNN)](https://github.com/afondiel/research-notes/blob/master/ai/ml-notes/deep-learning-notes/neural-nets-architecture-notes.md)
+- [Research Notes - cv resources](https://github.com/afondiel/computer-science-open-catalog/blob/master/computer-vision-notes/cv-notes.md)
+- [CONVOLUTIONAL NEURAL NETWORK (CNN)](https://github.com/afondiel/computer-science-open-catalog/blob/master/ai/ml-notes/deep-learning-notes/neural-nets-architecture-notes.md)
 
 Papers 
-- [Research Papers Archives](https://github.com/afondiel/research-notes/tree/master/computer-vision-notes/research-papers)
+- [Research Papers Archives](https://github.com/afondiel/computer-science-open-catalog/tree/master/computer-vision-notes/research-papers)
 - [Generative Adversarial Networks - Gan](https://arxiv.org/abs/1406.2661) 
 - [OpenAI Dall-E](https://openai.com/blog/dall-e-introducing-outpainting/)
 
