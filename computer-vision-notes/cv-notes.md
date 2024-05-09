@@ -128,7 +128,7 @@ Sub-domains of computer vision include :
 
 - [Deep Learning Neural Nets](..\ai\deep-learning-notes\neural-nets)
 - [Deep Learning Neural Nets Architectures](..\ai\deep-learning-notes\neural-nets-architecture-notes.md)
-- [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/computer-science-open-catalog/blob/master/ai/deep-learning-notes/neural-nets/notebook/convolutional-neural-network.ipynb)
+- [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/computer-science-notes/blob/master/ai/deep-learning-notes/neural-nets/notebook/convolutional-neural-network.ipynb)
 - [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
 - [Computer Vision & Keras resources](https://keras.io/examples/vision/)
 
@@ -159,7 +159,7 @@ Automotive dataset:
 
 ## Hello World!
 
-- [Handwriting Recognition Project](../ai/deep-learning-notes/neural-nets/notebook/MNIST_Image_Recognition.ipynb)
+- Check out the [Computer Vision Challenge](https://github.com/afondiel/computer-vision-challenge) `L0 & L1` for a collection of fundational CV projects.
 
 ## CV Projects
 
@@ -191,13 +191,13 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
 
 ## References
 
-**Computer Vision Roadmap** :
+**Computer Vision Roadmap**:
 - [Introduction to Computer Vision / Roadmap to CV Developer in 2022](https://www.karachidotai.com/introduction-to-computer-vision)
 - [Computer Vision Tutorial for Beginners | Learn Computer Vision](https://www.projectpro.io/data-science-in-python-tutorial/computer-vision-tutorial-for-beginners)
 - https://www.youtube.com/watch?v=jLcuVu5xdDo 
 - https://www.youtube.com/watch?v=DfPAvepK5Ws
 
-Wikipedia: 
+**Wikipedia**: 
 
 - Essential notes
 
@@ -235,7 +235,7 @@ Wikipedia:
 
   - [Convolutional Neural Network - CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
-Vision sensors
+**Vision sensors**
 - Camera Sensor: 
   - [How does a camera work? - Branch Education ](https://www.youtube.com/watch?v=B7Dopv6kzJA)
   - [The Science of Camera Sensors - Filmmaker IQ](https://www.youtube.com/watch?v=MytCfECfqWc)
@@ -248,12 +248,11 @@ Vision sensors
   - [Optical Sensor Basics and Applications](https://www.elprocus.com/optical-sensors-types-basics-and-applications/)
 
 
-Machine Vision
+**Machine Vision**
 - [Machine Vision](https://en.wikipedia.org/wiki/Machine_vision)
 - [A Practical Guide to Machine Vision Lighting](https://www.ni.com/en/shop/choosing-the-right-hardware-for-your-vision-applications/a-practical-guide-to-machine-vision-lighting.html#:~:text=Back%20to%20top-,Vision%20Illumination%20Sources%20and%20Spectral%20Content,(mercury)%2C%20and%20xenon.)
 
-
-Lectures & Tutorials:
+**Lectures & Tutorials**:
 
 - Stanford
   - [CS131 Computer Vision: Foundations and Applications - Stanford - Fall 2017](http://vision.stanford.edu/teaching/cs131_fall1718/)
@@ -280,34 +279,40 @@ Lectures & Tutorials:
 - [Lines Detection with Hough Transform](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
 - [What are the different subfields in computer vision? - Quora](https://www.quora.com/What-are-the-different-subfields-in-computer-vision)
 
+**Computer Vision & Transporation**
 
-Notebooks
-- [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/computer-science-open-catalog/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
+- **Tesla Vision vs Lidar**: 
+  - [Tesla autonomy neural networks How AI neural networks function in Tesla - By Andrej Karpathy](https://www.youtube.com/watch?v=eZOHA6Uy52k)
+  - [Tesla Vision vs LIDAR](https://www.youtube.com/watch?v=W-ubNvS0RGU)
+  - [How Tesla Is Using Artificial Intelligence to Create The Autonomous Cars Of The Future](https://bernardmarr.com/how-tesla-is-using-artificial-intelligence-to-create-the-autonomous-cars-of-the-future/)
+  - [LiDAR vs Computer Vision: Does Waymo Have A Better Strategy Than Tesla? - Joe Scott](https://www.youtube.com/watch?v=HmjuEikY4ew)
+  - [Tesla Vision vs UltraSonics Sensors (USS)](https://www.youtube.com/watch?v=1imyiPbYB24)
 
-Tesla Vision vs Lidar : 
-- [Tesla autonomy neural networks How AI neural networks function in Tesla - By Andrej Karpathy](https://www.youtube.com/watch?v=eZOHA6Uy52k)
-- [Tesla Vision vs LIDAR](https://www.youtube.com/watch?v=W-ubNvS0RGU)
-- [How Tesla Is Using Artificial Intelligence to Create The Autonomous Cars Of The Future](https://bernardmarr.com/how-tesla-is-using-artificial-intelligence-to-create-the-autonomous-cars-of-the-future/)
-- [LiDAR vs Computer Vision: Does Waymo Have A Better Strategy Than Tesla? - Joe Scott](https://www.youtube.com/watch?v=HmjuEikY4ew)
-- [Tesla Vision vs UltraSonics Sensors (USS)](https://www.youtube.com/watch?v=1imyiPbYB24)
+- **Tesla AI Day**: 
+  - [Tesla Autonomy Day - 2019](https://www.youtube.com/watch?v=Ucp0TTmvqOE)
+  - [Tesla Battery Day - 2020 - during covid](https://www.youtube.com/watch?v=l6T9xIeZTds)
+  - [Tesla AI Day - 2021](https://www.youtube.com/watch?v=j0z4FweCy4M&t=37s)
+  - [Tesla AI Day - 2022](https://www.youtube.com/watch?v=ODSJsviD_SU&t=3480s)
 
-Tesla AI Day : 
-- [Tesla Autonomy Day - 2019](https://www.youtube.com/watch?v=Ucp0TTmvqOE)
-- [Tesla Battery Day - 2020 - during covid](https://www.youtube.com/watch?v=l6T9xIeZTds)
-- [Tesla AI Day - 2021](https://www.youtube.com/watch?v=j0z4FweCy4M&t=37s)
-- [Tesla AI Day - 2022](https://www.youtube.com/watch?v=ODSJsviD_SU&t=3480s)
+**Computer Vision & Space Exploration**
+- [Computer Vision & Space Explorations - Notes](./lab/cv-space-explorations.md)
+- [Space Imagery Data - Nasa earthdata](https://www.earthdata.nasa.gov/)
+- [Computer Vision and Remote Sensing](https://www.satimagingcorp.com/applications/artificial-intelligence-ai/computer-vision/)
+- [Computer Vision in Google Maps](https://blog.google/products/maps/google-maps-immersive-view-routes/#:~:text=Using%20machine%20learning%20to%20extract,to%20understand%20what's%20in%20them.)
+- [Beyond Human Sight: How AI Computer Vision Reimagines Space Exploration.](https://devisionx.com/how-ai-computer-vision-reimagines-space-exploration/)
+- [Sophisticated Satellite Vision ](https://viso.ai/computer-vision/computer-vision-trends/)
 
-Research Notes resources:
+**Research Notes resources**:
+- [Computer Science Notes - cv resources](https://github.com/afondiel/computer-science-notes/blob/master/computer-vision-notes/cv-notes.md)
+- [CONVOLUTIONAL NEURAL NETWORK (CNN) - Notes](https://github.com/afondiel/computer-science-notes/blob/master/ai/ml-notes/deep-learning-notes/neural-nets-architecture-notes.md)
+- [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/computer-science-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
 
-- [Research Notes - cv resources](https://github.com/afondiel/computer-science-open-catalog/blob/master/computer-vision-notes/cv-notes.md)
-- [CONVOLUTIONAL NEURAL NETWORK (CNN)](https://github.com/afondiel/computer-science-open-catalog/blob/master/ai/ml-notes/deep-learning-notes/neural-nets-architecture-notes.md)
-
-Papers 
-- [Research Papers Archives](https://github.com/afondiel/computer-science-open-catalog/tree/master/computer-vision-notes/research-papers)
+**Papers**
+- [Research Papers](https://github.com/afondiel/computer-science-notes/tree/master/computer-vision-notes/research-papers)
 - [Generative Adversarial Networks - Gan](https://arxiv.org/abs/1406.2661) 
 - [OpenAI Dall-E](https://openai.com/blog/dall-e-introducing-outpainting/)
 
-Books 
+**Books** 
 - [Computer Vision - Resources](https://github.com/afondiel/cs-books/tree/main/computer-vision)
  
 
