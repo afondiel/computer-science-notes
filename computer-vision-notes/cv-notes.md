@@ -149,7 +149,7 @@ Sub-domains of computer vision include :
 - [Multimodal Models and Computer Vision: A Deep Dive - Roboflow](https://blog.roboflow.com/multimodal-models/)
 - [Multimodal Deep Learning: Definition, Examples, Applications - v7](https://www.v7labs.com/blog/multimodal-deep-learning-guide)
 - [Understanding the Role of Multimodal Models in Computer Vision - Inveniam](https://www.inveniam.fr/understanding-the-role-of-multimodal-models-in-computer-vision)
-
+- [Multimodal embeddings - Microsoft](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-image-retrieval)
 - [V-JEPA: The next step toward Yann LeCun’s vision of advanced machine intelligence (AMI)](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 - [What is Meta’s new V-JEPA model? [Explained] - GFG](https://www.geeksforgeeks.org/what-is-metas-new-v-jepa-model-explained/)
 - [How to use I-JEPA for image classficiation](https://discuss.huggingface.co/t/how-to-use-i-jepa-for-image-classficiation/46934)
