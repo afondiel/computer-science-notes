@@ -30,10 +30,17 @@ CV uses a variety of algorithms and a special [deep learning](../ai/deep-learnin
 
 ## Computer Vision (Basic) Pipeline Architecture
 
-1. Image acquisition
-2. Image preprocessing
-3. Feature Extraction
-4. Output: Interpretation & analysis
+```mermaid
+graph LR
+    A[Image Acquisition] ==> B[Image Processing]
+    B ==> C[Feature Extraction]
+    C ==> D[Output, Interpretation & Analysis]
+
+    style A fill:#EEE,stroke:#333,stroke-width:4px
+    style B fill:#F88,stroke:#333,stroke-width:4px
+    style C fill:#4F4,stroke:#333,stroke-width:4px
+    style D fill:#33F,stroke:#333,stroke-width:4px
+```
 
 ## Applications 
 
@@ -98,7 +105,7 @@ Sub-domains of computer vision include :
 **Face detection algorithms**
 - Coupled with color-based clothing and hair detection algorithms, can locate and recognize the individuals in this image
 
-## Computer Vision & Deep Learning & GenAI (LLMs, Vision LLMs...)
+## Computer Vision & Deep Learning
 
 **Non-exhautive list of Conv Nets (CNN) Archictectures**
 
@@ -107,7 +114,15 @@ Sub-domains of computer vision include :
 ![](https://camo.githubusercontent.com/728e3980abb477ced930abd05634becfcc9c74c3369a713304e39f4baaad3b43/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f312a6e31366c6a336c536b7a326d694d635f3563766b72412e6a706567)
 (From: [Benchmark Analysis of Representative Deep Neural Network Architectures - Luigi Celona (@CeLuigi) - 2018](https://arxiv.org/pdf/1810.00736.pdf))
 
+**Deep Learning Research Notes**
 
+- [Deep Learning Neural Nets](..\ai\deep-learning-notes\neural-nets)
+- [Deep Learning Neural Nets Architectures](..\ai\deep-learning-notes\neural-nets-architecture-notes.md)
+- [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/computer-science-notes/blob/master/ai/deep-learning-notes/neural-nets/notebook/convolutional-neural-network.ipynb)
+- [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
+- [Computer Vision & Keras resources](https://keras.io/examples/vision/)
+
+## Computer Vision & GenAI (LLMs, Vision LLMs...)
 
 **Visual GenAI**
 - [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
@@ -124,17 +139,21 @@ Sub-domains of computer vision include :
 
 - [It's not just words: LLMs in Computer Vision - Microsoft Reactor](https://www.youtube.com/watch?v=ss-kyogPRNo)
 
-**Deep Learning Research Notes**
-
-- [Deep Learning Neural Nets](..\ai\deep-learning-notes\neural-nets)
-- [Deep Learning Neural Nets Architectures](..\ai\deep-learning-notes\neural-nets-architecture-notes.md)
-- [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/computer-science-notes/blob/master/ai/deep-learning-notes/neural-nets/notebook/convolutional-neural-network.ipynb)
-- [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
-- [Computer Vision & Keras resources](https://keras.io/examples/vision/)
 
 **Computer Vision Paper Review**
 
 - [paper-review-and-code](./research-papers/paper-review-and-code/)
+
+## Computer Vision & Multimodality
+
+- [Multimodal Models and Computer Vision: A Deep Dive - Roboflow](https://blog.roboflow.com/multimodal-models/)
+- [Multimodal Deep Learning: Definition, Examples, Applications - v7](https://www.v7labs.com/blog/multimodal-deep-learning-guide)
+- [Understanding the Role of Multimodal Models in Computer Vision - Inveniam](https://www.inveniam.fr/understanding-the-role-of-multimodal-models-in-computer-vision)
+
+- [V-JEPA: The next step toward Yann LeCun’s vision of advanced machine intelligence (AMI)](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
+- [What is Meta’s new V-JEPA model? [Explained] - GFG](https://www.geeksforgeeks.org/what-is-metas-new-v-jepa-model-explained/)
+- [How to use I-JEPA for image classficiation](https://discuss.huggingface.co/t/how-to-use-i-jepa-for-image-classficiation/46934)
+- [vit-large-patch16-v-jepa - @elsr](https://huggingface.co/nielsr/vit-large-patch16-v-jepa)
 
 ## CV Datasets - Non-exhautive list
 
