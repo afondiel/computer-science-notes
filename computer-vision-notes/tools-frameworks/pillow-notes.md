@@ -83,7 +83,7 @@ image.show()
 - **Basic Image Editor**: Create a GUI application to load, edit, and save images.
 - **Thumbnail Generator**: Automate the creation of thumbnails for a collection of images.
 - **Image Filters Application**: Develop an application to apply various filters and transformations to images.
-- **OCR Tool**: Build a tool that uses Pillow and Tesseract to extract text from images.
+- [**OCR Tool**: Build a tool that uses Pillow and Tesseract to extract text from images.](https://github.com/afondiel/computer-vision-challenge/blob/main/L0_07_Optical_Character_Recognition_OCR/notebooks/OCR_Pytesseract.ipynb)
 
 ## References
 - [Python_Imaging_Library - Wikipedia](https://en.wikipedia.org/wiki/Python_Imaging_Library)
