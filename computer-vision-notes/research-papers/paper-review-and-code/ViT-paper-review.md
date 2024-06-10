@@ -34,3 +34,6 @@
 ### Authors and Organizations
 - Authors: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, et al.
 - Organizations: Google Research, Brain Team
+
+## References
+- Original Paper: https://arxiv.org/pdf/2010.11929
