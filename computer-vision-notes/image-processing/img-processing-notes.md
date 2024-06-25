@@ -1,5 +1,4 @@
-# Image Processing (DIP) - Notes
-
+# Digital Image Processing (DIP) - Notes
 
 ## Overview
 
@@ -14,7 +13,7 @@ Digital image processing is the use of a digital computer to process digital ima
 - Projection
 
 
-## Basics
+## Fundamentals
 
 - Image : a 2D matrix (m x n , array of pixels) 
   - types of images : 
@@ -65,13 +64,13 @@ pixel representations
         +-----+------+-------+---------> (Gray Levels/intensity)
         0                              255
 
-## DIP Pipeline
+## Image Processing Pipeline
 
 ![](https://sbme-tutorials.github.io/2019/intro-to-BME/images/blk-diagram.png)
 
 Src: [SBME tutorials](https://sbme-tutorials.github.io/2019/intro-to-BME/notes/12_week12.html)
 
-## Operations
+## DIP Operations
 
 ![](https://www.tecgraf.puc-rio.br/im/en/doxygen/group__process.png)
 
@@ -131,7 +130,7 @@ Src: [Tecgraf.puc-rio - Img Processing](https://www.tecgraf.puc-rio.br/im/en/dox
 - CUDA
 - Tensorflow
 - SimpleCV
-- PyTorch 
+- PyTorch: TorchVision 
 - Keras 
 - Theano
 - EmguCV
@@ -149,6 +148,12 @@ Wikipedia
 - [Analog Image Processing](https://en.wikipedia.org/wiki/Analog_image_processing)
 - [Signal Processing Notes ](https://github.com/afondiel/computer-science-notes/tree/master/signal-processing)
 - [Digital Image Processing Basics - GeeksForGeeks](https://www.geeksforgeeks.org/digital-image-processing-basics/)
+
+OpenCV:
+- [Image Processing with OpenCV](https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html)
+
+Lectures & Online courses:
+- [EE368/CS232: Digital Image Processing - Stanford](https://web.stanford.edu/class/ee368/handouts.html)
 
 Books: 
 - [Computer Vision books & resources](https://github.com/afondiel/cs-books/tree/main/computer-vision)
