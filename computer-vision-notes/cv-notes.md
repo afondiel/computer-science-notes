@@ -122,22 +122,25 @@ Sub-domains of computer vision include :
 - [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
 - [Computer Vision & Keras resources](https://keras.io/examples/vision/)
 
-## Computer Vision & GenAI (LLMs, Vision LLMs...)
+## Computer Vision & Generative AI (LLMs, VLMs, Vision-LLMs, ...)
 
-**Visual GenAI**
+**Vision GenAI**
 - [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 - [OpenAI DALL-E](https://en.wikipedia.org/wiki/DALL-E)
 - [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 - [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 
-**Visual LLMs**
+**Vision-LLMs**
 - [LLM-in-Vision - Yong-Lu Li(@DirtyHarryLYL)](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 - [Computer vision and Large Language Models (LLM)](https://www.moroccan-in-asia.com/post/computer-vision-and-large-language-models-llm)
 - [A Dive into Vision-Language Models - HuggingFace](https://huggingface.co/blog/vision_language_pretraining)
 - [How do Large Language Models (LLMs) Integrate with Computer Vision?](https://www.chooch.com/blog/how-to-integrate-large-language-models-with-computer-vision/)
 - [How do LLMs work with Vision AI? | OCR, Image & Video Analysis](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/how-do-llms-work-with-vision-ai-ocr-image-amp-video-analysis/ba-p/3835661)
-
 - [It's not just words: LLMs in Computer Vision - Microsoft Reactor](https://www.youtube.com/watch?v=ss-kyogPRNo)
+
+**Vision-Language Models**
+- [A Dive into Vision-Language Models - HF](https://huggingface.co/blog/vision_language_pretraining) 
+- [Vision Language Models Explained - HF](https://huggingface.co/blog/vlms)
 
 
 **Computer Vision Paper Review**
