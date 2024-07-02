@@ -158,7 +158,7 @@ Sub-domains of computer vision include :
 - [How to use I-JEPA for image classficiation](https://discuss.huggingface.co/t/how-to-use-i-jepa-for-image-classficiation/46934)
 - [vit-large-patch16-v-jepa - @elsr](https://huggingface.co/nielsr/vit-large-patch16-v-jepa)
 
-## CV Datasets - Non-exhautive list
+## CV Datasets (Non-exhautive list)
 
 1. [ImageNet](https://www.image-net.org/index.php)
 2. [COCO (Common Objects in Context)](https://cocodataset.org/#home)
@@ -179,13 +179,27 @@ Automotive dataset:
 - [Stanford Cars Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
 - [Top Self Driving Datasets](https://universe.roboflow.com/browse/self-driving)
 
+[SOTA Computer Vision Dataset - @paperwithcode](https://paperswithcode.com/area/computer-vision)
+
 ## Hello World!
 
 - Check out the [Computer Vision Challenge](https://github.com/afondiel/computer-vision-challenge) `L0 & L1` for a collection of fundational CV projects.
 
 ## CV Projects
 
-Please refer to the [/lab](./lab/) repo. 
+Please refer to the [lab](./lab/) repository. 
+
+## Computer Vision Project in Industry
+
+- [Meta Research Computer Vision Projects](https://research.facebook.com/publications/research-area/computer-vision/)
+- [Google Vision AI Framework](https://cloud.google.com/vision?hl=en)
+- [NVIDIA Computer Vision Products and Services](https://www.nvidia.com/en-us/glossary/computer-vision/)
+- [Amazon & AWS Computer Vision Frameworks](https://aws.amazon.com/computer-vision/)
+- [Apple vision Frameworks](https://developer.apple.com/documentation/vision/)
+- [OpenAI Vision Tools & Framework](https://platform.openai.com/docs/guides/vision)
+- [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
+- [Langchain & Computer Vision Tooling](https://www.toolify.ai/gpts/mastering-computer-vision-with-langchain-custom-tools-359661)
+
 
 ## Top Computer Vision Conferences
 
@@ -301,7 +315,7 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
 - [Lines Detection with Hough Transform](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
 - [What are the different subfields in computer vision? - Quora](https://www.quora.com/What-are-the-different-subfields-in-computer-vision)
 
-**Computer Vision & Transporation**
+**Computer Vision & Transportation**
 
 - **Tesla Vision vs Lidar**: 
   - [Tesla autonomy neural networks How AI neural networks function in Tesla - By Andrej Karpathy](https://www.youtube.com/watch?v=eZOHA6Uy52k)
