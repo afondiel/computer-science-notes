@@ -125,7 +125,7 @@ Sub-domains of computer vision include :
 - [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
 - [Computer Vision & Keras resources](https://keras.io/examples/vision/)
 
-## Computer Vision & Generative AI (LLMs, VLMs, Vision-LLMs, ...)
+## Computer Vision & Generative AI (VLMs, Vision-LLMs, ...)
 
 **Vision GenAI**
 - [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
@@ -133,7 +133,12 @@ Sub-domains of computer vision include :
 - [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 - [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 
-**Vision-LLMs/Vision Large Models**
+**Vision Large Models (VLMs)**
+
+- [Large Vision Models (LVMs) - LandingAI](https://landing.ai/lvm)
+- [Sequential Modeling Enables Scalable Learning for LVMs - paper](https://arxiv.org/pdf/2312.00785)
+
+**Vision-LLMs (LLMs handling Visual tasks)**
 - [LLM-in-Vision - Yong-Lu Li(@DirtyHarryLYL)](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 - [Computer vision and Large Language Models (LLM)](https://www.moroccan-in-asia.com/post/computer-vision-and-large-language-models-llm)
 - [A Dive into Vision-Language Models - HuggingFace](https://huggingface.co/blog/vision_language_pretraining)
@@ -141,14 +146,6 @@ Sub-domains of computer vision include :
 - [How do LLMs work with Vision AI? | OCR, Image & Video Analysis](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/how-do-llms-work-with-vision-ai-ocr-image-amp-video-analysis/ba-p/3835661)
 - [It's not just words: LLMs in Computer Vision - Microsoft Reactor](https://www.youtube.com/watch?v=ss-kyogPRNo)
 
-**Vision-Language Models**
-- [A Dive into Vision-Language Models - HF](https://huggingface.co/blog/vision_language_pretraining) 
-- [Vision Language Models Explained - HF](https://huggingface.co/blog/vlms)
-
-
-**Computer Vision Paper Review**
-
-- [paper-review-and-code](./research-papers/paper-review-and-code/)
 
 ## Computer Vision & Multimodality
 
@@ -161,6 +158,11 @@ Sub-domains of computer vision include :
 - [How to use I-JEPA for image classficiation](https://discuss.huggingface.co/t/how-to-use-i-jepa-for-image-classficiation/46934)
 - [vit-large-patch16-v-jepa - @elsr](https://huggingface.co/nielsr/vit-large-patch16-v-jepa)
 
+
+**Vision-Language Models (VLMs)**
+- [A Dive into Vision-Language Models - HF](https://huggingface.co/blog/vision_language_pretraining) 
+- [Vision Language Models Explained - HF](https://huggingface.co/blog/vlms)
+  
 ## CV Datasets (Non-exhautive list)
 
 1. [ImageNet](https://www.image-net.org/index.php)
