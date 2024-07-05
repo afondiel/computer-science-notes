@@ -133,7 +133,7 @@ Sub-domains of computer vision include :
 - [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 - [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 
-**Vision-LLMs**
+**Vision-LLMs/Vision Large Models**
 - [LLM-in-Vision - Yong-Lu Li(@DirtyHarryLYL)](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 - [Computer vision and Large Language Models (LLM)](https://www.moroccan-in-asia.com/post/computer-vision-and-large-language-models-llm)
 - [A Dive into Vision-Language Models - HuggingFace](https://huggingface.co/blog/vision_language_pretraining)
