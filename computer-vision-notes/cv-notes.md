@@ -68,7 +68,8 @@ List of the Most Popular Computer Vision Tools in 2022 - by Viso.ai:
 11. OpenVINO
 12. DeepFace
 13. [Roboflow](roboflow.com)
-14. [Encord](https://encord.com/)
+14. [landingAI](https://landing.ai)
+15. [Encord](https://encord.com/)
 ...
 
 
