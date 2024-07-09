@@ -37,7 +37,7 @@ Act as a machine learning expert. I want you to give a short summary of the tran
 `p2: summarize import insights`
 
 ```
-Act as an academician. I will provide you a sequence of scientific papers and you will be responsible for reviewing them and providing a concise summary in APA style. The first paper is entitled "<paper title, authors/organization, year> / <url>". Organize the contents into the following markdown format: 
+Act as an Academic Researcher. I will provide you a sequence of scientific papers and you will be responsible for reviewing them and providing a concise summary in APA style. The first paper is entitled "<paper title, authors/organization, year> / <url>". Organize the contents into the following markdown format: 
 - Introduction
 - Problem and Methodologies
 - Architecture pipeline
@@ -49,7 +49,7 @@ Act as an academician. I will provide you a sequence of scientific papers and yo
 `p2.1: summarize import insights`
 
 ```
-Act as an academician. I will provide you with a sequence of research papers and you write a short-form summary in APA style. 
+Act as an Academic Researcher. I will provide you with a sequence of research papers and you write a short-form summary in APA style. 
 
 The summary has the following structure:
 """
@@ -113,6 +113,6 @@ I am going to give you the paper name and you are going to write a short-form pi
 
 Do you understand?
 ```
-`p4-transition`: the paper= {title} : {link}
+`p4-transition`: the paper = {title} : {link}
 
 
