@@ -107,15 +107,19 @@ image.show()
 - **Generate Video Sequences:** Create realistic videos from noise using Continuous Diffusion Models.
 
 ## References
-- Ho, J., Jain, A., & Abbeel, P. (2020). Denoising Diffusion Probabilistic Models. arXiv preprint arXiv:2006.11239.
-- Song, Y., & Ermon, S. (2020). Score-Based Generative Modeling through Stochastic Differential Equations. arXiv preprint arXiv:2011.13456.
-- Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). Zero-Shot Text-to-Image Generation. arXiv preprint arXiv:2102.12092.
-- Dhariwal, P., & Nichol, A. (2021). Diffusion Models Beat GANs on Image Synthesis. arXiv preprint arXiv:2105.05233.
 
-Lectures and online courses:
+- [Denoising Diffusion Probabilistic Models - Ho, J., Jain, A., & Abbeel, P. (2020)](https://arxiv.org/abs/2006.11239)
+- [Score-Based Generative Modeling through Stochastic Differential Equations - Song, Y., & Ermon, S. (2020)](https://arxiv.org/abs/2011.13456)
+- [Zero-Shot Text-to-Image Generation - Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021)](https://arxiv.org/pdf/2102.12092).
+- [Dhariwal, P., & Nichol, A. (2021). Diffusion Models Beat GANs on Image Synthesis. arXiv preprint arXiv:2105.05233](https://arxiv.org/pdf/2105.05233).
+
+Lectures and online courses
+- [How Stable Diffusion Works (AI Image Generation) - Gonkee (Must Watch)](https://www.youtube.com/watch?v=sFztPP9qPRc)
+- [WORLD OF DIFFUSION: theory, shortcuts & future - Martin Andrews@reddragon.ai]( https://www.youtube.com/watch?v=hVk7Py1c24Q&t=0s)
 - [Practical Deep Learning - @fastai](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
 - [An introduction to Diffusion Probabilistic Models](https://ayandas.me/blogs/2021-12-04-diffusion-prob-models.html)
 - [Week 7 Diffusion processes - Jonathan Goodman](https://math.nyu.edu/~goodman/teaching/StochCalc2013/notes/Week7.pdf)
 - [What are Diffusion Models? - @https://github.com/lilianweng](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [Understanding Diffusion Probabilistic Models (DPMs)](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
 - [Understanding Diffusion Models: A Unified Perspective - Calvin Luo](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html)
+
