@@ -102,10 +102,8 @@ print("Predicted class:", predicted_class)
 - Exploring generative capabilities using LVMs for style transfer.
 
 ## References
+
+- [Hugging Face Vision Documentation](https://huggingface.co/docs/transformers/model_doc/vit)
+- [A New Era of Large Vision Models (LVMs) after the LLMs epoch: approach, examples, use cases - @springs_apps](https://medium.com/@springs_apps/a-new-era-of-large-vision-models-lvms-after-the-llms-epoch-approach-examples-use-cases-7c41f1aaf5cd)
 - Dosovitskiy, Alexey, et al. "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale." (2020).
 - He, Kaiming, et al. "Deep Residual Learning for Image Recognition." (2016).
-- Hugging Face Vision Documentation: [Link](https://huggingface.co/docs/transformers/model_doc/vit)
-
----
-
-This markdown summary provides a concise overview of Large Vision Models, tailored for different levels of expertise.
