@@ -301,7 +301,18 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
   - [CS231A: Computer Vision, From 3D Reconstruction to Recognition Winter 2023](https://web.stanford.edu/class/cs231a/course_notes.html) 
   - [CS231n Computer Vision Stanford - 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   - [Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)](https://www.youtube.com/watch?v=u6aEYuemt0M)
+- UC Berkeley
+  - [CS280: Graduate Computer Vision (UC Berkeley, Spring 2024)](https://cs280-berkeley.github.io/)
+  - [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/watch?v=Q3fqoJ41g6U&list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
+  - [UC Berkeley CS 280: Advanced Topics in Computer Vision](https://cs280-berkeley.github.io/resources/CS_280_Spring_2024_Syllabus.pdf)
+- MIT CSAIL (MIT Computer Science and Artificial Intelligence Laboratory):
+  - [6.8300/6.8301: Advances in Computer Vision - Spring 2024](https://advances-in-vision.github.io/)
+  - [6.869 Advances in Computer Vision: Learning and Interfaces](https://courses.csail.mit.edu/6.869/syllabus.html)
+  - [Jitendra Malik - The Three R's of Computer Vision: Recognition, Reconstruction, Reorganization](https://www.csail.mit.edu/node/6450) 
 
+- University of Toronto:
+  - [CSC2541:Visual Perception for Autonomous Driving - Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
+- [Computer Vision at GTI - Resources](https://sites.google.com/site/compvis/learning-resources)
 - Udemy Course:
   - [The Complete Self-Driving Car Course Applied Deep-Learning - Udemy - Notes](https://github.com/afondiel/The-Complete-Self-Driving-Car-Course-Udemy/blob/main/self-driving-cars-dl-notes.md)
 
@@ -310,9 +321,6 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
   - [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
   - [OpenGL Course - Create 3D and 2D Graphics With C++](https://www.youtube.com/watch?v=45MIykWJ-C4)
 - Torchvision: https://www.youtube.com/watch?v=CU6bTEClzlw
-
-- University of Toronto:
-  - [CSC2541:Visual Perception for Autonomous Driving - Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
 
 - [IBM - What is computer vision?](https://www.ibm.com/hk-en/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information.)
 - [Computer Vision Tutorial - GeeksForGeeks](https://www.geeksforgeeks.org/computer-vision/)
