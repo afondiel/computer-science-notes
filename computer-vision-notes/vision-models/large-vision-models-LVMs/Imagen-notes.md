@@ -95,5 +95,5 @@ image.show()
 - Fine-tuning a diffusion model to generate images in a specific artistic style.
 
 ## References
-- [Imagen: Text-to-Image Diffusion Models with Large Pretrained Language Models (2022), Saharia, Chitwan, et al. ](#)
+- [Imagen: Photorealistic Text-to-Image Diffusion Models with Large Pretrained Language Models (2022), Saharia, Chitwan, et al. ](https://arxiv.org/pdf/2205.11487)
 - [Google's Research Blog on Imagen](https://ai.googleblog.com/2022/05/imagen-photorealistic-text-to-image.html)
