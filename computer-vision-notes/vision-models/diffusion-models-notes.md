@@ -123,3 +123,12 @@ Lectures and online courses
 - [Understanding Diffusion Probabilistic Models (DPMs)](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
 - [Understanding Diffusion Models: A Unified Perspective - Calvin Luo](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html)
 
+
+Papers: 
+- [Diffusion Models in Vision: A Survey - 1 Apr 2023](https://arxiv.org/pdf/2209.04747)
+  ```text
+  - 3 Diffusion Models Sub-categories:
+    - DDPMs: Denoising dDiffusion Probabilistic Models
+    - NCSNs: Noise Conditioned Score Networks 
+    - SDEs: Stochastic Differential Equations
+  ```
