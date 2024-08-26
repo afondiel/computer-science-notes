@@ -128,3 +128,7 @@ plt.show()
 - Birren, Faber. *Color Psychology and Color Therapy: A Factual Study of the Influence of Color on Human Life*. (1950).
 - Wikipedia: [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
 - "Color Theory: An Essential Guide to Color-from Basic Principles to Practical Applications." Sessions College. [https://www.sessions.edu/color-calculator/color-theory/](https://www.sessions.edu/color-calculator/color-theory/)
+
+Color Palette Generators: 
+
+- [Google Color Selector](https://www.google.com/search?q=google+color+selector&oq=google+color+s&gs_lcrp=EgZjaHJvbWUqCAgCEAAYFhgeMgYIABBFGDkyBwgBEAAYgAQyCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIGCAcQRRg80gEINjg2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
