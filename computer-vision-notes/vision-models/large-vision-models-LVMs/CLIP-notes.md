@@ -1,4 +1,4 @@
-# CLIP - Notes
+# CLIP (Contrastive Language–Image Pre-training) - Notes
 
 ## Table of Contents (ToC)
 
@@ -83,5 +83,15 @@ print(probs)
 
 ## References
 
+Paper:
+- [Learning Transferable Visual Models From Natural Language Supervision - Radford, Alec, et al. (2021)](https://arxiv.org/pdf/2103.00020) 
+- [Model Card: CLIP](https://github.com/openai/CLIP/blob/main/model-card.md)
+
+Docs: 
+
 - [CLIP Documentation - Hugging Face](https://huggingface.co/docs/transformers/model_doc/clip)
-- [Learning Transferable Visual Models From Natural Language Supervision - Radford, Alec, et al. (2021)](#) . 
+
+Articles & Release:
+- [CLIP: Connecting text and images - Jan 2021](https://openai.com/index/clip/)
+
+
