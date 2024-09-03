@@ -1,4 +1,4 @@
-# ALIGN - Notes
+# ALIGN (A Large-scale ImaGe and Noisy-text embedding) - Notes
 
 ## Table of Contents (ToC)
   - [Introduction](#introduction)
@@ -82,6 +82,12 @@ print(image_embeddings)
 - Exploring transfer learning techniques with ALIGN.
 
 ## References
-- [ALIGN Documentation - Hugging Face](https://huggingface.co/docs/transformers/model_doc/clip)
-- [Jia, Chao, et al. "Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision." (2021).](#)
 
+Papers:
+- [Jia, Chao, et al. "Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision." (2021).](https://arxiv.org/pdf/2102.05918)
+
+Docs:
+- [ALIGN Documentation - Hugging Face](https://huggingface.co/docs/transformers/model_doc/align)
+
+Article & Release:
+- [ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision - Google Reasearch, 2021](https://research.google/blog/align-scaling-up-visual-and-vision-language-representation-learning-with-noisy-text-supervision/)
