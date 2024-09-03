@@ -50,7 +50,7 @@ graph LR
 - Autonomous vehicles & Robotics
 - Augmented reality (AR)
 - Remote sensing
-...
+- And more ...
 
 ## Tools & Frameworks
 
@@ -125,7 +125,7 @@ Sub-domains of computer vision include :
 - [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
 - [Computer Vision & Keras resources](https://keras.io/examples/vision/)
 
-## Computer Vision & Generative AI (VLMs, Vision-LLMs, ...)
+## Computer Vision & Generative AI (VLMs, LVMs, ...)
 
 **Vision GenAI**
 - [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
@@ -138,7 +138,7 @@ Sub-domains of computer vision include :
 - [Large Vision Models (LVMs) - LandingAI](https://landing.ai/lvm)
 - [Sequential Modeling Enables Scalable Learning for LVMs - paper](https://arxiv.org/pdf/2312.00785)
 
-**Vision-LLMs (LLMs handling Visual tasks)**
+**Vision-LLMs (LLMs handling Visual tasks): Text-To-Image, ...**
 - [LLM-in-Vision - Yong-Lu Li(@DirtyHarryLYL)](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 - [Computer vision and Large Language Models (LLM)](https://www.moroccan-in-asia.com/post/computer-vision-and-large-language-models-llm)
 - [A Dive into Vision-Language Models - HuggingFace](https://huggingface.co/blog/vision_language_pretraining)
@@ -159,7 +159,7 @@ Sub-domains of computer vision include :
 - [vit-large-patch16-v-jepa - @elsr](https://huggingface.co/nielsr/vit-large-patch16-v-jepa)
 
 
-**Vision-Language Models (VLMs)**
+**Vision-Language Models (VLMs): Image-To-Text, ...**
 - [A Dive into Vision-Language Models - HF](https://huggingface.co/blog/vision_language_pretraining) 
 - [Vision Language Models Explained - HF](https://huggingface.co/blog/vlms)
   
@@ -188,7 +188,9 @@ Automotive dataset:
 
 ## Hello World!
 
-- Check out the [Computer Vision Challenge](https://github.com/afondiel/computer-vision-challenge) `L0 & L1` for a collection of fundational CV projects.
+**Ready to level up your Computer Vision skills?**
+
+  Take on the [Computer Vision Challenge](https://github.com/afondiel/computer-vision-challenge) and dive into exciting projects that will help you master the fundamentals.
 
 ## CV Projects
 
