@@ -58,10 +58,17 @@ visual_prompting.show_result(result)
 - [What is Visual Prompting? - LandingAI](https://landing.ai/blog/what-is-visual-prompting/)
 - [Visual Prompting Livestream With Andrew Ng](https://www.youtube.com/watch?v=FE88OOUBonQ)
 - [CVPR 2023 Tutorial on Prompting in Vision](https://prompting-in-vision.github.io/)
-- [What is Visual Prompting? View Visual Prompts with Examples - Landing AI](https://landing.ai/blog/what-is-visual-prompting/.). 
 - [Exploring Visual Prompts for Adapting Large-Scale Models.](https://arxiv.org/abs/2203.17274) .
 - [Visual Prompting | Papers With Code.](https://paperswithcode.com/task/visual-prompting) .
 - [Andrew Ng’s Landing AI makes it easier to create ... - VentureBeat.](https://venturebeat.com/ai/andrew-ngs-landing-ai-makes-it-easier-to-create-computer-vision-apps-with-visual-prompting/)
+- https://prompting-in-vision.github.io/index_cvpr24.html
+- https://paperswithcode.com/task/visual-prompting
+- https://medium.com/@tenyks_blogger/cvpr-2024-foundation-models-visual-prompting-are-about-to-disrupt-computer-vision-026f2c1c3a2f
+- https://support.landing.ai/docs/visual-prompting
+- https://research.ibm.com/projects/visual-prompting
+- https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model
+- https://www.saxifrage.xyz/post/vision-prompting
+
 
 Lectures & Online Courses: 
 - [Prompt Engineering for Vision Models Crash Course - Notes (DeepLearningAI)](https://github.com/afondiel/Prompt-Engineering-for-Vision-Models-DeepLearningAI)
