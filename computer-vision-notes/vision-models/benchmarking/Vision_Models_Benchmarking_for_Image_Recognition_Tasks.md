@@ -1,5 +1,13 @@
 # Vision Models Benchmarking for Image Recognition Tasks
 
+## Table of Contents
+  - [Image Classification](#image-classification)
+  - [Object Detection](#object-detection)
+  - [Semantic Segmentation](#semantic-segmentation)
+  - [Instance Segmentation](#instance-segmentation)
+  - [Image Captioning](#image-captioning)
+
+
 ## Image Classification
 | SOTA Vision Models              | Description                                                    | Capability                     | Performance | Metrics           | Datasets                  |
 |----------------------------------|----------------------------------------------------------------|---------------------------------|-------------|-------------------|---------------------------|
