@@ -1,5 +1,10 @@
 # Video Models Benchmarking for Image Recognition Tasks
 
+## Table of Contents
+  - [Object Tracking](#object-tracking)
+  - [Video Captioning](#video-captioning)
+  - [3D Reconstruction from Video](#3d-reconstruction-from-video)
+
 
 ## Object Tracking
 
