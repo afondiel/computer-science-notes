@@ -1,43 +1,52 @@
 # Video Models Benchmarking for Image Recognition Tasks
 
+
 ## Object Tracking
 
-| SOTA Vision Models              | Description                                                    | Capability                     | Performance | Metrics           | Datasets                  |
-|----------------------------------|----------------------------------------------------------------|---------------------------------|-------------|-------------------|---------------------------|
-| DeepSORT                         | Deep learning-based object tracking algorithm                  | Real-time tracking of multiple objects | High         | MOTA (Multiple Object Tracking Accuracy) | MOTChallenge, COCO        |
-| SiamMask                          | Instance segmentation and object tracking combined             | Fast and accurate tracking       | High         | Precision, Success | GOT-10k, LaSOT            |
-| TransTrack                       | Transformer-based object tracking                              | End-to-end tracking              | Very High    | MOTA, MOTP         | BDD100K, KITTI            |
+| SOTA Vision Models | Description | Capability | Performance | Metrics | Datasets |
+|--|--|--|--|--|--|
+| TransTrack | Transformer-based approach for tracking | Tracks objects across frames | High accuracy on multiple benchmarks | MOTA, IDF1 | MOT17, MOT20 |
+| SiamRPN++ | Real-time object tracking using region proposal networks | Accurate and fast object tracking | Good real-time performance | Precision, Success rate | GOT-10k, LaSOT |
+| CenterTrack | Uses center points to detect and track objects | Joint detection and tracking | Excellent speed and accuracy | MOTA, IDF1 | MOT17 |
+| TrackFormer | Transformer-based framework for joint detection and tracking | Tracks objects directly | High accuracy on crowded scenes | MOTA, IDF1 | MOT17, MOT20 |
+| FairMOT | Focuses on fairness in tracking across different object sizes | Joint detection and tracking | Excellent performance in diverse conditions | MOTA, IDF1 | MOT16, MOT20 |
+| ByteTrack | Tracker for both high and low-confidence object detections | Handles diverse tracking cases | Good performance on crowded scenes | MOTA, IDF1 | MOT17, MOT20 |
+| DeepSORT | Deep learning approach for Simple Online Realtime Tracking | Tracks multiple objects | Consistent in performance across different scenes | MOTA, IDF1 | MOT16, KITTI |
+| SiamMask | Combines tracking and segmentation for visual object tracking | Tracks and segments objects | High success rate and precision | Success rate, Precision | VOT2018, LaSOT |
+| D3S | Discriminative single-shot object tracker with segmentation | Real-time object tracking with segmentation | Competitive with state-of-the-art methods | Success rate, Precision | VOT2018, GOT-10k |
+| MDNet | Multi-Domain Network for tracking across different tasks | Robust object tracking | High performance on multiple datasets | Success rate, Precision | VOT2015, OTB-100 |
+
+---
 
 ## Video Captioning
 
-| SOTA Vision Models              | Description                                                    | Capability                     | Performance | Metrics           | Datasets                  |
-|----------------------------------|----------------------------------------------------------------|---------------------------------|-------------|-------------------|---------------------------|
-| VideoBERT                        | Video-language pretraining for caption generation              | Accurate and contextual video captions | High         | BLEU, METEOR       | HowTo100M, YouCook2        |
-| UniVL                            | Unified video-language model for video understanding tasks     | Video captioning and understanding | Very High    | BLEU, CIDEr        | YouCook2, ActivityNet      |
-| ClipCap                          | Clip-based video captioning model                              | Efficient and fast video captions | High         | ROUGE, SPICE       | MSR-VTT, LSMDC            |
+| SOTA Vision Models | Description | Capability | Performance | Metrics | Datasets |
+|--|--|--|--|--|--|
+| ClipCap | Efficient video captioning using pre-trained vision models | Generates coherent captions | High-quality captions in multiple domains | BLEU, METEOR | MSVD, MSR-VTT |
+| VideoBERT | Learns video-language representations | Generates accurate video descriptions | Strong performance in understanding complex actions | BLEU, METEOR | HowTo100M |
+| Unified VLP | Joint training of visual and language representations | Generates captions and video descriptions | High quality across tasks | BLEU, CIDEr | MSR-VTT, YouCook2 |
+| GPT2 + Visual Encoder | Integrates visual and textual information for video captioning | Accurate video captioning | Good performance on varied video datasets | BLEU, METEOR | MSVD, MSR-VTT |
+| MAViL | Multimodal model for video captioning | Handles multimodal video inputs | State-of-the-art performance | BLEU, METEOR | MSR-VTT |
+| End-to-End Video Captioning Transformer | Transformer-based model for video captioning | Generates contextual video descriptions | Excellent performance on complex video scenes | CIDEr, BLEU | ActivityNet, MSVD |
+| Dense Video Captioning | Generates captions for densely occurring events | Captions multiple events in a single video | High performance on multi-event videos | CIDEr, BLEU | ActivityNet Captions |
+| HERO | Hierarchical transformer for video event descriptions | Contextual understanding of video sequences | Top performance on long videos | BLEU, METEOR | TVQA, HowTo100M |
+| M3L | Multimodal Multitask Learning for video description | Handles multiple tasks including captioning | High-quality video summaries | CIDEr, BLEU | YouCook2, MSVD |
+| VIOLET | Combines vision and language transformers for video captioning | Generates captions with contextual richness | Strong benchmarks on several datasets | CIDEr, BLEU | YouCook2, MSVD |
 
-## Video Summarization
-
-| SOTA Vision Models              | Description                                                    | Capability                     | Performance | Metrics           | Datasets                  |
-|----------------------------------|----------------------------------------------------------------|---------------------------------|-------------|-------------------|---------------------------|
-| TransSum                         | Transformer-based video summarization                          | Extracts key video scenes       | High         | F1 Score, Precision | TVSum, SumMe              |
-| DSNet                            | Deep learning for video summarization                          | Summarizes long videos into short clips | Very High    | F1 Score          | SumMe, TVSum              |
-| SMIL                              | Self-supervised video summarization model                      | Works with unsupervised data     | Medium       | F1 Score          | SumMe, TVSum              |
+---
 
 ## 3D Reconstruction from Video
 
-| SOTA Vision Models              | Description                                                    | Capability                     | Performance | Metrics           | Datasets                  |
-|----------------------------------|----------------------------------------------------------------|---------------------------------|-------------|-------------------|---------------------------|
-| COLMAP                           | Structure-from-motion model for 3D reconstruction              | Accurate 3D scene reconstruction | High         | Accuracy, Precision | ETH3D, Tanks and Temples   |
-| NeRF                             | Neural radiance fields for 3D scene synthesis                  | High-quality 3D rendering        | Very High    | PSNR, SSIM         | LLFF, Blender             |
-| Multi-view CNN                   | Convolutional network for multi-view 3D reconstruction         | Effective for small objects      | Medium       | Accuracy          | ShapeNet, ModelNet        |
-
-## Video Style Transfer
-
-| SOTA Vision Models              | Description                                                    | Capability                     | Performance | Metrics           | Datasets                  |
-|----------------------------------|----------------------------------------------------------------|---------------------------------|-------------|-------------------|---------------------------|
-| AdaIN                            | Adaptive instance normalization for style transfer             | Efficient real-time style transfer | High         | Style Loss, Content Loss | VGG, MS COCO             |
-| CINN                             | Conditional instance normalization for neural style transfer   | Accurate and fast style transfer | Very High    | FID, Style Score   | MS COCO, Pascal VOC       |
-| STROTSS                          | Self-tuning real-time video style transfer                     | Real-time video style transfer   | Medium       | Style Loss        | COCO, Vimeo               |
-
+| SOTA Vision Models | Description | Capability | Performance | Metrics | Datasets |
+|--|--|--|--|--|--|
+| DeepV2D | Monocular depth and pose estimation for 3D reconstruction | 3D reconstruction from monocular video | High reconstruction accuracy | RMSE, Depth Error | NYU-Depth, KITTI |
+| COLMAP | Traditional multi-view stereo approach | Structure from motion for 3D models | Precise 3D reconstruction | Point accuracy | ETH3D, Tanks and Temples |
+| NeuralRecon | Real-time 3D reconstruction from RGB-D video | Real-time performance with neural networks | High accuracy and fast processing | 3D IoU, F-Score | ScanNet, TUM-RGBD |
+| BundleFusion | Fuses depth information from multiple frames | Dense 3D reconstruction | Excellent performance with depth sensors | Accuracy, F-Score | ScanNet, NYU-Depth |
+| PixelNeRF | Neural Radiance Fields for reconstructing 3D models | Generates detailed 3D models | High-quality results on novel views | PSNR, SSIM | ShapeNet, ScanNet |
+| MultiView StereoNet | Deep learning for multi-view stereo reconstruction | Produces dense 3D point clouds | High-quality reconstruction | 3D IoU, F-Score | DTU, Tanks and Temples |
+| Voxblox | Real-time volumetric 3D reconstruction | Handles large-scale scenes in real time | Fast and accurate | RMSE, Depth Error | KITTI, TUM-RGBD |
+| DISN | Deep Implicit Surface Network for 3D shape reconstruction | Detailed 3D surface reconstruction | High performance on fine details | Chamfer Distance | ShapeNet, KITTI |
+| Occupancy Networks | Learning 3D shape representations for reconstruction | Generates high-fidelity 3D models | Good accuracy and robustness | Chamfer Distance, IoU | ShapeNet, KITTI |
+| DepthFusion | Combines depth maps from multiple views for 3D reconstruction | Accurate multi-view 3D reconstruction | Excellent accuracy and consistency | RMSE, Depth Error | ScanNet, NYU-Depth |
 
