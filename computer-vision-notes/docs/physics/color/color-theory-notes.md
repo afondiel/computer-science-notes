@@ -118,17 +118,23 @@ plt.show()
 - Developing a web application with dynamic color themes based on user preferences.
 
 ## References
-- Itten, Johannes. "The Art of Color: The Subjective Experience and Objective Rationale of Color." (1961).
-- Albers, Josef. "Interaction of Color." (1963).
-- Adobe Color Theory Resources: 
+
+- Birren, Faber. *Color Psychology and Color Therapy: A Factual Study of the Influence of Color on Human Life*. (1950)
+- Itten, Johannes. *The Art of Color: The Subjective Experience and Objective Rationale of Color*. (1961)
+- Albers, Josef. "Interaction of Color." (1963)
+- [Color Theory - Wikipedia](https://en.wikipedia.org/wiki/Color_theory)
+- ["Color Theory: An Essential Guide to Color-from Basic Principles to Practical Applications." - Sessions College](https://www.sessions.edu/color-calculator/color-theory/)
+
+Adobe Color Theory Resources: 
   - [Adobe Color Wheel](https://color.adobe.com/create)
   - Adobe Color Documentation: [https://color.adobe.com/](https://color.adobe.com/)
+  
+W3schools:
+- Colors Tutorial: https://www.w3schools.com/colors/default.asp
+- Color Theory: https://www.w3schools.com/colors/colors_theory.asp
 
-- Itten, Johannes. *The Art of Color: The Subjective Experience and Objective Rationale of Color*. (1961).
-- Birren, Faber. *Color Psychology and Color Therapy: A Factual Study of the Influence of Color on Human Life*. (1950).
-- Wikipedia: [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
-- "Color Theory: An Essential Guide to Color-from Basic Principles to Practical Applications." Sessions College. [https://www.sessions.edu/color-calculator/color-theory/](https://www.sessions.edu/color-calculator/color-theory/)
+Introduction to Color Theory for Artists:
+- https://www.serenaarchetti.com/blog/introduction-to-color-theory-for-artists
 
 Color Palette Generators: 
-
 - [Google Color Selector](https://www.google.com/search?q=google+color+selector&oq=google+color+s&gs_lcrp=EgZjaHJvbWUqCAgCEAAYFhgeMgYIABBFGDkyBwgBEAAYgAQyCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIGCAcQRRg80gEINjg2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
