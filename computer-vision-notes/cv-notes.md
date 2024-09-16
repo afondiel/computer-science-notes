@@ -299,10 +299,12 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
 **Lectures & Tutorials**:
 
 - Stanford
-  - [CS131 Computer Vision: Foundations and Applications - Stanford - Fall 2017](http://vision.stanford.edu/teaching/cs131_fall1718/)
-  - [CS231A: Computer Vision, From 3D Reconstruction to Recognition Winter 2023](https://web.stanford.edu/class/cs231a/course_notes.html) 
-  - [CS231n Computer Vision Stanford - 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-  - [Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)](https://www.youtube.com/watch?v=u6aEYuemt0M)
+  - **[Stanford Vision Lab Resources - Advanced topics in computer vision: from CS231n, CS131 and more ...](http://vision.stanford.edu/teaching.html)**
+    - [CS131 Computer Vision: Foundations and Applications - Stanford - Fall 2017](http://vision.stanford.edu/teaching/cs131_fall1718/)
+    - [CS231a: Computer Vision, From 3D Reconstruction to Recognition Winter 2023](https://web.stanford.edu/class/cs231a/course_notes.html) 
+    - [CS231n Computer Vision Stanford - 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+  - **[Deep Learning for Computer Vision (Andrej Karpathy, OpenAI) from DL School lecture 24/25/2016 by Lex Fridman](https://www.youtube.com/watch?v=u6aEYuemt0M)**
+
 - UC Berkeley
   - [CS280: Graduate Computer Vision (UC Berkeley, Spring 2024)](https://cs280-berkeley.github.io/)
   - [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/watch?v=Q3fqoJ41g6U&list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
