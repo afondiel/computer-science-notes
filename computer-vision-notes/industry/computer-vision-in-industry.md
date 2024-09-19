@@ -263,4 +263,6 @@ ToC
 
 
 ## References
+
+- [Visual Technology - Wikipedia](https://en.wikipedia.org/wiki/Visual_technology)
 - [Visual Technologies are Critical to the Future Success of All Businesses - LDV CAPITAL](https://www.ldv.co/blog/what-is-visual-tech)
