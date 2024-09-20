@@ -121,7 +121,7 @@ Sub-domains of computer vision include :
 
 - [Deep Learning Neural Nets](..\ai\deep-learning-notes\neural-nets)
 - [Deep Learning Neural Nets Architectures](..\ai\deep-learning-notes\neural-nets-architecture-notes.md)
-- [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/computer-science-notes/blob/master/ai/deep-learning-notes/neural-nets/notebook/convolutional-neural-network.ipynb)
+- [Convolutional Neural Network (CNN) - Notebook](https://github.com/afondiel/computer-science-notebook/blob/master/ai/deep-learning-notes/neural-nets/notebook/convolutional-neural-network.ipynb)
 - [The State of Computer Vision at Hugging Face](https://huggingface.co/blog/cv_state)
 - [Computer Vision & Keras resources](https://keras.io/examples/vision/)
 
@@ -357,12 +357,12 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
 - [Sophisticated Satellite Vision ](https://viso.ai/computer-vision/computer-vision-trends/)
 
 **Research Notes resources**:
-- [Computer Science Notes - cv resources](https://github.com/afondiel/computer-science-notes/blob/master/computer-vision-notes/cv-notes.md)
-- [CONVOLUTIONAL NEURAL NETWORK (CNN) - Notes](https://github.com/afondiel/computer-science-notes/blob/master/ai/ml-notes/deep-learning-notes/neural-nets-architecture-notes.md)
-- [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/computer-science-notes/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
+- [Computer Science Notebook - cv resources](https://github.com/afondiel/computer-science-notebook/blob/master/computer-vision-notes/cv-notes.md)
+- [CONVOLUTIONAL NEURAL NETWORK (CNN) - Notes](https://github.com/afondiel/computer-science-notebook/blob/master/ai/ml-notes/deep-learning-notes/neural-nets-architecture-notes.md)
+- [Convolutional Neural Network(CNN) - notebook](https://github.com/afondiel/computer-science-notebook/blob/master/ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb)
 
 **Papers**
-- [Research Papers](https://github.com/afondiel/computer-science-notes/tree/master/computer-vision-notes/research-papers)
+- [Research Papers](https://github.com/afondiel/computer-science-notebook/tree/master/computer-vision-notes/research-papers)
 - [Generative Adversarial Networks - Gan](https://arxiv.org/abs/1406.2661) 
 - [OpenAI Dall-E](https://openai.com/blog/dall-e-introducing-outpainting/)
 
