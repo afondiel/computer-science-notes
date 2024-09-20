@@ -69,6 +69,8 @@ Embedded Vision refers to the integration of vision capabilities into small, emb
 - **NVIDIA Jetson**: A platform with GPU-accelerated hardware for real-time embedded vision and AI applications.
 - **OpenVINO**: Intel's toolkit for optimizing and deploying deep learning models on embedded devices with hardware acceleration.
 - **YOLO (You Only Look Once)**: A real-time object detection algorithm that is often used in embedded vision applications.
+- [Optimum: an extension of 🤗 Transformers and Diffusers, providing a set of optimization tools enabling maximum efficiency to train and run models on targeted hardware](https://github.com/huggingface/optimum)
+
 
 ## Hello World!
 ```python
@@ -113,3 +115,9 @@ cv2.destroyAllWindows()
 - https://www.adlinktech.com/fr/Machine_Vision_Vision_Systems
 - https://www.framos.com/en/resources/what-is-embedded-vision
 - https://www.technexion.com/resources/embedded-vision-vs-machine-vision-everything-you-need-to-know/
+- https://www.lacroix-impulse.fr/nos-expertises/computer-vision-edge-ia/
+
+
+Courses:
+- [Introduction to On-Device AI - DLA](https://www.coursera.org/projects/introduction-to-on-device-ai)
+- [Computer Vision with Embedded ML](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)

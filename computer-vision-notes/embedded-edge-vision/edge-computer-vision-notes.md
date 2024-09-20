@@ -118,4 +118,8 @@ model.summary()
 - Atos: https://atos.net/fr/solutions/atos-computer-vision-platform
 - [eurotech: COMPUTER VISION & AI ON EDGE](https://www.eurotech.com/edge-ai/computer-vision/?gad_source=1&gclid=Cj0KCQjw8--2BhCHARIsAF_w1gz0wqEWnTgyNEr8x12ZO2LyFUP0VDO2I3oPju_Xa47HEgqF-zAtZEIaAtTnEALw_wcB)
 - [Texas Instruments Edge AI: Advancing intelligence at the edge - Scalable and efficient vision processors bring real-time intelligence to smart camera systems](https://www.ti.com/technologies/edge-ai.html?utm_source=google&utm_medium=cpc&utm_campaign=ti-null-null-58700008391670827_dynamicapplications_edgeai-cpc-pp-google-eu_int&utm_term=&ds_k=DYNAMIC+SEARCH+ADS&DCM=yes&gad_source=1&gclid=Cj0KCQjw8--2BhCHARIsAF_w1gwST1aJaADgu4YR71MJNMxiw4wrJXhd7h7pYz959x3J1Nm9_bIAtCkaAsecEALw_wcB&gclsrc=aw.ds)
+- https://www.lacroix-impulse.fr/nos-expertises/computer-vision-edge-ia/
 
+Courses:
+- [Introduction to On-Device AI - DLA](https://www.coursera.org/projects/introduction-to-on-device-ai)
+- [Computer Vision with Embedded ML](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)
