@@ -37,11 +37,11 @@
 
 ## Learning Map (Architecture Pipeline)
 ```mermaid
-graph TD
+graph LR
     A[Input Video] --> B[Decompression]
     B --> C[Frame-by-Frame Analysis]
     C --> D[Filtering & Enhancement]
-    D --> E[Feature Extraction (Optional)]
+    D --> E[Feature Extraction, Optional]
     E --> F[Recompression or Output]
 ```
 - The pipeline starts with decompressing the video, followed by frame-by-frame analysis. Depending on the task, enhancement or feature extraction (e.g., object detection) is applied before final output.
