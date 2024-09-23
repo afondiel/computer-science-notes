@@ -236,32 +236,32 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
 ## References
 
 **Computer Vision Roadmap**:
+
 - [Introduction to Computer Vision / Roadmap to CV Developer in 2022](https://www.karachidotai.com/introduction-to-computer-vision)
 - [Computer Vision Tutorial for Beginners | Learn Computer Vision](https://www.projectpro.io/data-science-in-python-tutorial/computer-vision-tutorial-for-beginners)
 - https://www.youtube.com/watch?v=jLcuVu5xdDo 
 - https://www.youtube.com/watch?v=DfPAvepK5Ws
 
-**Wikipedia**: 
+Essential notes (Wikipedia):
+- [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
+- [Machine Perception](https://en.wikipedia.org/wiki/Machine_perception)
+- [Depth Perception](https://en.wikipedia.org/wiki/Depth_perception)
+- [Understanding Depth Perception in Computer Vision - Nasscom](https://coe-dsai.nasscom.in/understanding-depth-perception-in-computer-vision/)
 
-- Essential notes
-
-  - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
-  - [Machine Perception](https://en.wikipedia.org/wiki/Machine_perception)
-  - [Depth Perception](https://en.wikipedia.org/wiki/Depth_perception)
-  - [Understanding Depth Perception in Computer Vision - Nasscom](https://coe-dsai.nasscom.in/understanding-depth-perception-in-computer-vision/)
-
-- Environment
+Physics - Environment (Wikipedia):
   - [Light](https://en.wikipedia.org/wiki/Light)
   - [Electromagnetic Radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
   - [Electromagnetic Spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
   - [Optics](https://en.wikipedia.org/wiki/Optics)
   - [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
 
+Biology & Neuroscience: 
 - Human perception 
   - [Human Eye](https://en.wikipedia.org/wiki/Human_eye)
   - [Visual System](https://en.wikipedia.org/wiki/Visual_system)
   - [Visual Cortex](https://en.wikipedia.org/wiki/Visual_cortex)
 
+Mathematics:
 - Signal Processing
 
   - [Multidimensional Signal Processing](https://en.wikipedia.org/wiki/Category:Multidimensional_signal_processing)
@@ -275,21 +275,24 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
   - [Geometry Processing](https://en.wikipedia.org/wiki/Geometry_processing)
   - [3D space](https://en.wikipedia.org/wiki/Three-dimensional_space)
 
-- Deep Learning
+- Deep Learning Models:
 
   - [Convolutional Neural Network - CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
-**Vision sensors**
+**Vision & Perception sensors**
 - Camera Sensor: 
+  - [Image Sensor - Wikipedia](https://en.wikipedia.org/wiki/Image_sensor)
   - [How does a camera work? - Branch Education ](https://www.youtube.com/watch?v=B7Dopv6kzJA)
   - [The Science of Camera Sensors - Filmmaker IQ](https://www.youtube.com/watch?v=MytCfECfqWc)
   - [Understanding The Digital Image Sensor](https://thinklucid.com/tech-briefs/understanding-digital-image-sensors/)
-  - [Image Sensor](https://en.wikipedia.org/wiki/Image_sensor)
-  - [The ultimate image sensor guide: EMCCD vs. SCMOS vs. CMOS vs. CCD](https://www.e-consystems.com/blog/camera/technology/the-ultimate-image-sensor-guide-emccd-vs-scmos-vs-cmos-vs-ccd/)
   - [Types Of Camera Sensor](https://www.photometrics.com/learn/camera-basics/types-of-camera-sensor)
+    - [The ultimate image sensor guide: EMCCD vs. SCMOS vs. CMOS vs. CCD](https://www.e-consystems.com/blog/camera/technology/the-ultimate-image-sensor-guide-emccd-vs-scmos-vs-cmos-vs-ccd/)
+    - Types of camera: **RGB, IR, LiDAR, Thermal, UV, X-ray, Panoramic, Action, 360-Degree**
 - Optical sensors:
   - [Electro-optical sensor](https://en.wikipedia.org/wiki/Electro-optical_sensor)
   - [Optical Sensor Basics and Applications](https://www.elprocus.com/optical-sensors-types-basics-and-applications/)
+- LiDAR:
+  - [Lidar - Wikipedia](https://en.wikipedia.org/wiki/Lidar)
 
 
 **Machine Vision**
@@ -316,20 +319,32 @@ Src: [The Ultimate Guide to Top Computer Vision Conferences: Where Tech Visionar
 
 - University of Toronto:
   - [CSC2541:Visual Perception for Autonomous Driving - Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
-- [Computer Vision at GTI - Resources](https://sites.google.com/site/compvis/learning-resources)
+
 - Udemy Course:
   - [The Complete Self-Driving Car Course Applied Deep-Learning - Udemy - Notes](https://github.com/afondiel/The-Complete-Self-Driving-Car-Course-Udemy/blob/main/self-driving-cars-dl-notes.md)
+
+- Inria: 
+  - https://www-sop.inria.fr/members/Francois.Bremond/MSclass/deepLearningWinterSchool21Fall/UCA_master/
+  - https://www-sop.inria.fr/members/Francois.Bremond/MSclass/deepLearningWinterSchool/index.html
+  - https://learninglab.inria.fr/cours/
+  - https://astra-vision.github.io
+- CentralSupelec - Université Paris-Saclay:
+  - https://www.centralesupelec.fr/fr/cvn-centre-de-vision-numerique
+  - https://cvn.centralesupelec.fr/
 
 - FreeCodeCamp:
   - [OpenCV Course - Full Tutorial with Python - 4H - FreeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=69s)
   - [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
-  - [OpenGL Course - Create 3D and 2D Graphics With C++](https://www.youtube.com/watch?v=45MIykWJ-C4)
-- Torchvision: https://www.youtube.com/watch?v=CU6bTEClzlw
-
+- Pytorch:
+  - [Torchvision in 5 minutes](https://www.youtube.com/watch?v=CU6bTEClzlw)
+  
+IBM:
 - [IBM - What is computer vision?](https://www.ibm.com/hk-en/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information.)
-- [Computer Vision Tutorial - GeeksForGeeks](https://www.geeksforgeeks.org/computer-vision/)
+
+MISC:
 - [v7labs - 27+ Most Popular Computer Vision Applications and Use Cases in 2022](https://www.v7labs.com/blog/computer-vision-applications)
 - [viso.ai - The 12 Most Popular Computer Vision Tools in 2022](https://viso.ai/computer-vision/the-most-popular-computer-vision-tools/)
+- [Computer Vision Tutorial - GeeksForGeeks](https://www.geeksforgeeks.org/computer-vision/)
 - [Lines Detection with Hough Transform](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
 - [What are the different subfields in computer vision? - Quora](https://www.quora.com/What-are-the-different-subfields-in-computer-vision)
 
