@@ -126,3 +126,7 @@ cv2.destroyAllWindows()
 - OpenCV Documentation: https://docs.opencv.org/
 - FFmpeg Documentation: https://ffmpeg.org/documentation.html
 - "Video Processing for Modern Applications" (Research Paper)
+- [Video Analysis with OpenCV](https://docs.opencv.org/4.x/de/db6/tutorial_js_table_of_contents_video.html)
+- [Image and Video Processing - Latest paper (September 2024) - arxiv.org](https://arxiv.org/list/eess.IV/current)
+
+
