@@ -1,12 +1,18 @@
 # Vision Models Benchmarking for Image Recognition Tasks
 
 ## Table of Contents
+  - [Overview](#overview)
   - [Image Classification](#image-classification)
   - [Object Detection](#object-detection)
   - [Semantic Segmentation](#semantic-segmentation)
   - [Instance Segmentation](#instance-segmentation)
   - [Image Captioning](#image-captioning)
 
+## Overview
+
+This is a compact template to benckmarking Vision Models based on vision recognition tasks capability and efficiency.
+
+- See the upcoming results on the [leaderboard](./Vision-Foundation-Models-Leaderboard.md) (live soon on [HF space)](https://huggingface.co/spaces)).
 
 ## Image Classification
 | SOTA Vision Models              | Description                                                    | Capability                     | Performance | Metrics           | Datasets                  |

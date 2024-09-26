@@ -2,10 +2,17 @@
 
 
 **Table of Contents**
+- [**Overview**](#overview)
 - [**Image Classification Leaderboard**](#image-classification-leaderboard)
 - [**Object Detection Leaderboard**](#object-detection-leaderboard)
 - [**Instance Segmentation Leaderboard**](#instance-segmentation-leaderboard)
 
+
+### Overview
+
+Ranking of Vision Foundation Models by Task. 
+
+- Last update: (26/Sep/2024)
 
 ### **Image Classification Leaderboard**
 
