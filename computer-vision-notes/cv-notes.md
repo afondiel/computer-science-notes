@@ -1,21 +1,25 @@
-# Computer vision (CV) - Notes
+# Computer Vision (CV) - Notes
 
 ## Table of Contents
+  - [What's Computer Vision (CV)?](#whats-computer-vision-cv)
+  - [How It Works?](#how-it-works)
+  - [CV Problem \& Challenge: Why Computer Vision is a HARD problem in AI?](#cv-problem--challenge-why-computer-vision-is-a-hard-problem-in-ai)
+  - [Computer Vision (Basic) Pipeline Architecture](#computer-vision-basic-pipeline-architecture)
+  - [Applications](#applications)
+  - [Tools \& Frameworks](#tools--frameworks)
+  - [Computer Vision Sub-fields/domains](#computer-vision-sub-fieldsdomains)
+  - [CV Algorithms \& Applications](#cv-algorithms--applications)
+  - [Computer Vision \& Deep Learning](#computer-vision--deep-learning)
+  - [Computer Vision \& Generative AI (VLMs, LVMs, ...)](#computer-vision--generative-ai-vlms-lvms-)
+  - [Computer Vision \& Multimodality](#computer-vision--multimodality)
+  - [CV Datasets (Non-exhautive list)](#cv-datasets-non-exhautive-list)
+  - [Hello World!](#hello-world)
+  - [CV Projects](#cv-projects)
+  - [Computer Vision Project in Industry](#computer-vision-project-in-industry)
+  - [Top Computer Vision Conferences](#top-computer-vision-conferences)
+  - [Computer Vision Researcher - Starting Resources](#computer-vision-researcher---starting-resources)
+  - [References](#references)
 
-- [What's Computer Vision (CV)?](#whats-computer-vision-cv)
-- [How It Works?](#how-it-works)
-- [Computer Vision Pipeline Architecture](#computer-vision-pipeline-architecture)
-- [Applications](#applications)
-- [Tools \& Frameworks](#tools--frameworks)
-- [Computer Vision Sub-fields/domains](#computer-vision-sub-fieldsdomains)
-- [CV Algorithms \& Applications](#cv-algorithms--applications)
-- [Computer Vision \& Deep Learning \& LLMs \& GenAI](#computer-vision--deep-learning--llms--genai)
-- [CV Datasets - Non-exhautive list](#cv-datasets---non-exhautive-list)
-- [Hello World!](#hello-world)
-- [CV Projects](#cv-projects)
-- [Top Computer Vision Conferences](#top-computer-vision-conferences)
-- [Computer Vision Researcher - Starting Resources](#computer-vision-researcher---starting-resources)
-- [References](#references)
  
 
 ### What's Computer Vision (CV)?
@@ -27,6 +31,35 @@ CV uses artificial intelligence (AI) to interpret visual data (mainly digital im
 If [AI](../ai/ai-notes.md) enables computers to think, **computer vision** enables them to see, observe and understand the world.
 
 CV uses a variety of algorithms and a special [deep learning](../ai/deep-learning-notes/dl-notes.md) neural nets called [Convolutional Neural Networks (CNN)](../ai/deep-learning-notes/neural-nets/convolutional-neural-network.ipynb).
+
+### CV Problem & Challenge: Why Computer Vision is a HARD problem in AI?  
+
+- **Ambiguity and Interpretation:**
+  - **Contextual understanding:** Objects require context for interpretation. 
+  - **Occlusions:** Objects can be partially hidden. 
+  - **Illusions:** Visual illusions can mislead algorithms. 
+
+- **Variability and Diversity:**
+  - **Object variations:** Objects can appear differently due to lighting, pose, scale, or deformation. 
+  - **Background clutter:** Images often have distracting backgrounds.
+  - **Real-world complexity:** The real world is diverse and complex.
+
+- **Data Challenges:** 
+  - **Data acquisition:** Collecting large, diverse, and high-quality datasets is difficult.
+  - **Annotation:** Labeling images accurately is time-consuming and error-prone. 
+  - **Data bias:** Datasets can be biased, leading to biased models.
+
+- **Computational Complexity:**
+  - **Computational resources:** Computer vision algorithms can be computationally demanding. 
+  - **Real-time processing:** Many applications require real-time performance.
+
+- **Generalization:**
+  - **Domain adaptation:** Models may not generalize well to new, unseen data. 
+  - **Out-of-distribution data:** Models can struggle with data that is significantly different from their training data.
+
+- Resources:
+  - [Why Computer Vision Is a Hard Problem for AI - Alexei Efros UC Berkeley](https://www.youtube.com/watch?v=YOKPo-I6cgs&t=0s)
+  - [The state of Computer Vision and AI: we are really, really far away - Karpathy Blog](https://karpathy.github.io/2012/10/22/state-of-computer-vision/) 
 
 ## Computer Vision (Basic) Pipeline Architecture
 
@@ -188,9 +221,9 @@ Automotive dataset:
 
 ## Hello World!
 
-**Ready to level up your Computer Vision skills?**
+**Want to level up your Computer Vision skills?**
 
-  Take on the [Computer Vision Challenge](https://github.com/afondiel/computer-vision-challenge) and dive into exciting projects that will help you master the fundamentals.
+- Check out the [Computer Vision Challenge (CVC)](https://github.com/afondiel/computer-vision-challenge) and dive into exciting projects that will help you master the fundamentals.
 
 ## CV Projects
 
