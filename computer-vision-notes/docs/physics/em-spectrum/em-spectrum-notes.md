@@ -60,15 +60,15 @@ graph LR
 - **Logical Steps**: The electromagnetic spectrum is organized by increasing frequency and decreasing wavelength.
 ## Electromagnetic Spectrum Table
 
-| Type of Radiation | Wavelength Range | Frequency Range |
-|--------------------|--------------------|------------------|
-| Radio Waves        | > 1 mm            | < 3 GHz          |
-| Microwaves         | 1 mm - 1 μm       | 3 GHz - 300 GHz  |
-| Infrared           | 1 μm - 700 nm     | 300 GHz - 430 THz|
-| Visible Light      | 700 nm - 400 nm   | 430 THz - 750 THz|
-| Ultraviolet        | 400 nm - 10 nm    | 750 THz - 30 PHz |
-| X-rays             | 10 nm - 0.01 nm   | 30 PHz - 30 EHz  |
-| Gamma Rays         | < 0.01 nm         | > 30 EHz         |
+| Type of Radiation | Wavelength Range | Frequency Range  | Energy per Photon |
+|--------------------|--------------------|-------------------|-------------------|
+| Radio Waves        | > 1 mm            | < 3 GHz          | < 1.24 x 10^-6 eV |
+| Microwaves         | 1 mm - 1 μm       | 3 GHz - 300 GHz  | 1.24 x 10^-6 - 1.24 x 10^-3 eV |
+| Infrared           | 1 μm - 700 nm     | 300 GHz - 430 THz| 1.24 x 10^-3 - 1.77 eV |
+| Visible Light      | 700 nm - 400 nm   | 430 THz - 750 THz| 1.77 - 3.10 eV |
+| Ultraviolet        | 400 nm - 10 nm    | 750 THz - 30 PHz | 3.10 - 124 eV |
+| X-rays             | 10 nm - 0.01 nm   | 30 PHz - 30 EHz  | 124 eV - 124 keV |
+| Gamma Rays         | < 0.01 nm         | > 30 EHz         | > 124 keV |
 
 - **Wavelength Range**: The range of wavelengths for each type of electromagnetic radiation, from the longest (radio waves) to the shortest (gamma rays).
 - **Frequency Range**: The corresponding range of frequencies for each type of radiation, from the lowest (radio waves) to the highest (gamma rays).
@@ -162,5 +162,6 @@ print(f"The wavelength is {wavelength} meters")
 - Study radio wave propagation in telecommunications, infrared technology in security systems, and gamma-ray detection in medical imaging.
 
 ## References
+- Wikipedia: https://en.wikipedia.org/wiki/Electromagnetic_spectrum
 - NASA: The Electromagnetic Spectrum: https://science.nasa.gov/ems
 - Physics OpenStax: Electromagnetic Waves: https://openstax.org/
