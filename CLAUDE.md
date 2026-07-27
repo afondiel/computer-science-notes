@@ -2,27 +2,32 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+> See [AGENTS.md](AGENTS.md) for general AI-agent guidance (setup, verification,
+> conventions, PR process). This file covers the same project with additional
+> detail on architecture and templates.
+
 ## What This Repository Is
 
-A community-driven computer science knowledge base consisting primarily of Markdown notes, code snippets, and lab examples. It is **not a software application** — there is no build system, test suite, or CI pipeline at the root level. The content is organized as a structured reference notebook, optionally rendered as an mdbook web site.
+A community-driven computer science knowledge base consisting primarily of Markdown notes, code snippets, and lab examples. It is **not a software application** — there is no application source code or unit test suite. The content is organized as a structured reference notebook, published as an MkDocs Material web site.
 
 ## Building the Web Documentation
 
-The notebook can be published as an mdbook site. The configuration lives in `meta/docs/online/book.toml`.
+The notebook is published as an MkDocs Material site. The configuration lives in `mkdocs.yml` at the repository root (`docs_dir` is the repo root itself, via the `same-dir` plugin).
 
 ```bash
-# Install mdbook (requires Rust/cargo)
-cargo install mdbook
+# Install the docs toolchain (Python 3.11+)
+pip install -r requirements-docs.txt
 
 # Build the static site
-cd meta/docs/online
-mdbook build
+mkdocs build
 
 # Serve locally with live reload
-mdbook serve
+mkdocs serve
 ```
 
-The generated site is output to `meta/docs/online/book/`.
+The generated site is output to `site/` (gitignored). Merges to `master` deploy the site to GitHub Pages via `.github/workflows/docs.yml`.
+
+**There is no test suite — `mkdocs build` is the verification step.** It must exit 0 and must not report `is not found among documentation files` warnings (the repository is currently at zero).
 
 ## Note Generation Tool
 
@@ -30,7 +35,7 @@ A Python script scaffolds new note files and directories:
 
 ```bash
 # Generate a new topic note (creates <topic-name>-notes/ folder with docs/ and lab/ subdirs)
-python meta/tools/assistant/hello_world.py <topic-name>
+python meta/tools/hello_world.py <topic-name>
 ```
 
 This creates the standard note template with sections: Overview, Applications, Tools & Frameworks, Hello World!, References.
@@ -74,7 +79,7 @@ Active topic areas under `core/`:
 
 - `meta/templates/` — Folder scaffolds for `core/` topics and `industry/` applications
 - `meta/tools/` — Automation scripts, Docker, CI/CD notes, VCS cheatsheets
-- `meta/docs/online/` — mdbook source and configuration
+- `meta/tools/authoring-guide.md` — Obsidian + Claude authoring workflow
 
 ## Content Templates
 

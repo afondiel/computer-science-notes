@@ -97,6 +97,7 @@ extra:
 exclude_docs: |
   .github/
   .gitignore
+  AGENTS.md
   CLAUDE.md
   MKDOCS_MIGRATION_PLAN.md
   requirements-docs.txt
